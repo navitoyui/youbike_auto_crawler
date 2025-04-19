@@ -22,4 +22,4 @@ jobs:
           pip install requests beautifulsoup4
 
       - name: Run crawler
-        run: python crawler.py
+        run: python main.py
