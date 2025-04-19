@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500105100",
+      "sna": "YouBike2.0_達賢圖書館",
+      "sarea": "文山區",
+      "mday": "2025-04-19 20:46:16",
+      "ar": "政大達賢圖書館西側人行道",
+      "sareaen": "Wenshan Dist",
+      "snaen": "YouBike2.0_Dah Hsian Seetoo Library",
+      "aren": "Dah Hsian Seetoo Library (West)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 20:46:16",
+      "infoDate": "2025-04-19",
+      "total": 27,
+      "available_rent_bikes": 1,
+      "latitude": 24.9884,
+      "longitude": 121.57786,
+      "available_return_bikes": 26
+    }
+  }
+]

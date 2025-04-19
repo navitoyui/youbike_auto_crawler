@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500104006",
+      "sna": "YouBike2.0_天和公園",
+      "sarea": "士林區",
+      "mday": "2025-04-19 22:09:02",
+      "ar": "中山北路七段14巷(公園西側)",
+      "sareaen": "Shilin Dist",
+      "snaen": "YouBike2.0_Tianhe Park",
+      "aren": "No.30， Ln.69， Tianmu E. Rd. (Front)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 22:09:02",
+      "infoDate": "2025-04-19",
+      "total": 16,
+      "available_rent_bikes": 6,
+      "latitude": 25.12011,
+      "longitude": 121.53357,
+      "available_return_bikes": 4
+    }
+  }
+]

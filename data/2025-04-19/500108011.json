@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500108011",
+      "sna": "YouBike2.0_大湖國小",
+      "sarea": "內湖區",
+      "mday": "2025-04-20 00:29:03",
+      "ar": "大湖山莊街/大湖山莊街176巷(東南側)",
+      "sareaen": "Neihu Dist",
+      "snaen": "YouBike2.0_Dahu Elementary School",
+      "aren": "Dahu Shanzhuang St & Ln. 176， Dahu Shanzhuang St. (Southeast)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-20 00:29:03",
+      "infoDate": "2025-04-20",
+      "total": 29,
+      "available_rent_bikes": 14,
+      "latitude": 25.08803,
+      "longitude": 121.59958,
+      "available_return_bikes": 14
+    }
+  }
+]

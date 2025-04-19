@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500112086",
+      "sna": "YouBike2.0_五分埔公園",
+      "sarea": "信義區",
+      "mday": "2025-04-19 23:50:04",
+      "ar": "中坡北路57號旁",
+      "sareaen": "Xinyi Dist",
+      "snaen": "YouBike2.0_Wufenpu Park",
+      "aren": "No. 57， Zhongpo N. Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 23:50:04",
+      "infoDate": "2025-04-19",
+      "total": 20,
+      "available_rent_bikes": 7,
+      "latitude": 25.04719,
+      "longitude": 121.58058,
+      "available_return_bikes": 13
+    }
+  }
+]

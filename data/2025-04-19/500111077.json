@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500111077",
+      "sna": "YouBike2.0_舊莊派出所",
+      "sarea": "南港區",
+      "mday": "2025-04-19 22:10:05",
+      "ar": "舊莊街一段/舊莊街一段215巷",
+      "sareaen": "Nangang Dist",
+      "snaen": "YouBike2.0_Jiuzhuang Police Station",
+      "aren": "Sec. 1， Jiuzhuang St. & Ln. 215， Sec. 1， Jiuzhuang St. Intersection",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 22:10:05",
+      "infoDate": "2025-04-19",
+      "total": 15,
+      "available_rent_bikes": 8,
+      "latitude": 25.03827,
+      "longitude": 121.62274,
+      "available_return_bikes": 7
+    }
+  }
+]

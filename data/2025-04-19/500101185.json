@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500101185",
+      "sna": "YouBike2.0_辛亥新生路口西北側",
+      "sarea": "大安區",
+      "mday": "2025-04-20 00:20:02",
+      "ar": "辛亥路一段/新生南路三段(西北側)",
+      "sareaen": "Daan Dist.",
+      "snaen": "YouBike2.0_Xinhai Rd. & Xinsheng S. Rd. Intersection",
+      "aren": "Sec. 1， Xinhai Rd. & Sec. 3， Xinsheng S. Rd. Intersection (Northwest)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-20 00:20:02",
+      "infoDate": "2025-04-20",
+      "total": 24,
+      "available_rent_bikes": 11,
+      "latitude": 25.02267,
+      "longitude": 121.5341,
+      "available_return_bikes": 13
+    }
+  }
+]

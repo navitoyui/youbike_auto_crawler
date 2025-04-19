@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500109097",
+      "sna": "YouBike2.0_中國電影製片廠",
+      "sarea": "北投區",
+      "mday": "2025-04-19 21:40:03",
+      "ar": "中央北路二段400號",
+      "sareaen": "Beitou Dist",
+      "snaen": "YouBike2.0_China Film Studio",
+      "aren": "No. 400， Sec. 2， ZhongYang N. Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 21:40:03",
+      "infoDate": "2025-04-19",
+      "total": 15,
+      "available_rent_bikes": 2,
+      "latitude": 25.13843,
+      "longitude": 121.48802,
+      "available_return_bikes": 13
+    }
+  }
+]

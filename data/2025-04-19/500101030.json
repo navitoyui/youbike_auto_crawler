@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500101030",
+      "sna": "YouBike2.0_臺大永齡生醫工程館",
+      "sarea": "大安區",
+      "mday": "2025-04-20 00:29:03",
+      "ar": "芳蘭路51號西北側",
+      "sareaen": "Daan Dist.",
+      "snaen": "YouBike2.0_NTU Yonglin Biomedical Engineering Hall",
+      "aren": "No. 51， Fanglan Rd.(Northwest)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-20 00:29:03",
+      "infoDate": "2025-04-20",
+      "total": 34,
+      "available_rent_bikes": 11,
+      "latitude": 25.0136,
+      "longitude": 121.54656,
+      "available_return_bikes": 23
+    }
+  }
+]

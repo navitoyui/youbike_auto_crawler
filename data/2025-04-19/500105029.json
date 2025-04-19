@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500105029",
+      "sna": "YouBike2.0_一壽橋",
+      "sarea": "文山區",
+      "mday": "2025-04-19 22:40:04",
+      "ar": "樟新街64號前方",
+      "sareaen": "Wenshan Dist",
+      "snaen": "YouBike2.0_Yishou Bridge",
+      "aren": "No. 64， Zhangxin St.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 22:40:04",
+      "infoDate": "2025-04-19",
+      "total": 28,
+      "available_rent_bikes": 20,
+      "latitude": 24.97837,
+      "longitude": 121.55548,
+      "available_return_bikes": 7
+    }
+  }
+]

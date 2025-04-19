@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500113035",
+      "sna": "YouBike2.0_峨眉停車場",
+      "sarea": "萬華區",
+      "mday": "2025-04-20 00:10:03",
+      "ar": "峨眉街83號(旁)",
+      "sareaen": "Wanhua Dist",
+      "snaen": "YouBike2.0_Emei Parking Lots",
+      "aren": "No. 83， Emei St. (Side)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-20 00:10:03",
+      "infoDate": "2025-04-20",
+      "total": 47,
+      "available_rent_bikes": 19,
+      "latitude": 25.04441,
+      "longitude": 121.50541,
+      "available_return_bikes": 26
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500103052",
+      "sna": "YouBike2.0_捷運民權西路站(3號出口)",
+      "sarea": "大同區",
+      "mday": "2025-04-19 22:54:01",
+      "ar": "民權西路70巷37號對面",
+      "sareaen": "Datong Dist",
+      "snaen": "YouBike2.0_MRT Minquan W. Rd. Sta. (Exit 3)",
+      "aren": "No. 37， Ln. 70， Minquan W. Rd. (Opposite)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 22:54:01",
+      "infoDate": "2025-04-19",
+      "total": 50,
+      "available_rent_bikes": 4,
+      "latitude": 25.06129,
+      "longitude": 121.52021,
+      "available_return_bikes": 45
+    }
+  }
+]

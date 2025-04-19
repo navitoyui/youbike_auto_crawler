@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500109071",
+      "sna": "YouBike2.0_和信治癌中心醫院",
+      "sarea": "北投區",
+      "mday": "2025-04-19 22:00:02",
+      "ar": "立德路125號",
+      "sareaen": "Beitou Dist",
+      "snaen": "YouBike2.0_Koo Foundation Sun Yat-Sen Cancer Center",
+      "aren": "No. 125， Lide Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 22:00:02",
+      "infoDate": "2025-04-19",
+      "total": 25,
+      "available_rent_bikes": 8,
+      "latitude": 25.12757,
+      "longitude": 121.47207,
+      "available_return_bikes": 17
+    }
+  }
+]

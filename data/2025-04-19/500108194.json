@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500108194",
+      "sna": "YouBike2.0_文德三號公園(文德路)",
+      "sarea": "內湖區",
+      "mday": "2025-04-19 20:40:03",
+      "ar": "文德路50號旁公園",
+      "sareaen": "Neihu Dist",
+      "snaen": "YouBike2.0_WenDe Park No. 3 (WenDe Rd.)",
+      "aren": "No. 50， WenDe Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 20:40:03",
+      "infoDate": "2025-04-19",
+      "total": 21,
+      "available_rent_bikes": 8,
+      "latitude": 25.07834,
+      "longitude": 121.58076,
+      "available_return_bikes": 13
+    }
+  }
+]

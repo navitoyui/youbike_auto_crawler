@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500107151",
+      "sna": "YouBike2.0_臺北市立大同高中",
+      "sarea": "中山區",
+      "mday": "2025-04-19 22:26:02",
+      "ar": "長春路167號前",
+      "sareaen": "Zhongshan Dist",
+      "snaen": "YouBike2.0_Taipei Municipal Datong High School",
+      "aren": "No. 167， ChangChun Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 22:26:02",
+      "infoDate": "2025-04-19",
+      "total": 22,
+      "available_rent_bikes": 5,
+      "latitude": 25.05484,
+      "longitude": 121.53521,
+      "available_return_bikes": 17
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500101134",
+      "sna": "YouBike2.0_捷運大安站(4號出口)",
+      "sarea": "大安區",
+      "mday": "2025-04-20 00:22:02",
+      "ar": "信義路4段6號(前)",
+      "sareaen": "Daan Dist.",
+      "snaen": "YouBike2.0_MRT Da’an Sta (Exit 4)",
+      "aren": "No. 6， Sec. 4， Xinyi Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-20 00:22:02",
+      "infoDate": "2025-04-20",
+      "total": 13,
+      "available_rent_bikes": 2,
+      "latitude": 25.0332,
+      "longitude": 121.5439,
+      "available_return_bikes": 11
+    }
+  }
+]

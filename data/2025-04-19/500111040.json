@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500111040",
+      "sna": "YouBike2.0_新新公園(昆陽街60巷)",
+      "sarea": "南港區",
+      "mday": "2025-04-20 00:31:02",
+      "ar": "南港路三段47巷8號南側",
+      "sareaen": "Nangang Dist",
+      "snaen": "YouBike2.0_Xinxin Park (Ln. 60， Kunyang St.)",
+      "aren": "No. 8， Ln. 47， Sec. 3， Nangang Rd. (South)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-20 00:31:02",
+      "infoDate": "2025-04-20",
+      "total": 20,
+      "available_rent_bikes": 12,
+      "latitude": 25.0521,
+      "longitude": 121.59053,
+      "available_return_bikes": 8
+    }
+  }
+]

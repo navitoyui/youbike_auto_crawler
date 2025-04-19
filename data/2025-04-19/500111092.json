@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500111092",
+      "sna": "YouBike2.0_中研院近代史研究所研究大樓",
+      "sarea": "南港區",
+      "mday": "2025-04-19 23:26:01",
+      "ar": "中研院近代史研究所研究大樓",
+      "sareaen": "Nangang Dist",
+      "snaen": "YouBike2.0_Institute of Modern History， Academia Sinica",
+      "aren": "Institute of Modern History， Academia Sinica",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 23:26:01",
+      "infoDate": "2025-04-19",
+      "total": 16,
+      "available_rent_bikes": 4,
+      "latitude": 25.03999,
+      "longitude": 121.61538,
+      "available_return_bikes": 12
+    }
+  }
+]

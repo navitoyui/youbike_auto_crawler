@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500104099",
+      "sna": "YouBike2.0_文林路101巷口",
+      "sarea": "士林區",
+      "mday": "2025-04-20 00:20:02",
+      "ar": "文林路100號前",
+      "sareaen": "Shilin Dist",
+      "snaen": "YouBike2.0_Ln. 101， Wenlin Rd.",
+      "aren": "No. 100， Wenlin Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-20 00:20:02",
+      "infoDate": "2025-04-20",
+      "total": 17,
+      "available_rent_bikes": 13,
+      "latitude": 25.08761,
+      "longitude": 121.52608,
+      "available_return_bikes": 4
+    }
+  }
+]

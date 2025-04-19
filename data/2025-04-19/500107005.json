@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500107005",
+      "sna": "YouBike2.0_培英公園",
+      "sarea": "中山區",
+      "mday": "2025-04-19 22:09:02",
+      "ar": "崇實路/大直街62巷(東南側)",
+      "sareaen": "Zhongshan Dist",
+      "snaen": "YouBike2.0_Peiying Park",
+      "aren": "Chongshi/Ln. 62， Dajhih St. Intersection",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 22:09:02",
+      "infoDate": "2025-04-19",
+      "total": 40,
+      "available_rent_bikes": 7,
+      "latitude": 25.08258,
+      "longitude": 121.54462,
+      "available_return_bikes": 33
+    }
+  }
+]

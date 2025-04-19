@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500103027",
+      "sna": "YouBike2.0_捷運雙連站(2號出口)",
+      "sarea": "大同區",
+      "mday": "2025-04-19 23:15:02",
+      "ar": "萬全街22號對面",
+      "sareaen": "Datong Dist",
+      "snaen": "YouBike2.0_MRT Shuanglian Sta. (Exit 2)",
+      "aren": "No. 22， Wanquan St. (Opposite)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 23:15:02",
+      "infoDate": "2025-04-19",
+      "total": 41,
+      "available_rent_bikes": 2,
+      "latitude": 25.05826,
+      "longitude": 121.52063,
+      "available_return_bikes": 37
+    }
+  }
+]

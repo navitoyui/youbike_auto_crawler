@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500101144",
+      "sna": "YouBike2.0_捷運大安森林公園站(2號出口)",
+      "sarea": "大安區",
+      "mday": "2025-04-20 00:10:03",
+      "ar": "捷運大安森林公園站(2號出口)西側",
+      "sareaen": "Daan Dist.",
+      "snaen": "YouBike2.0_MRT Daan Park Sta. (Exit 2)",
+      "aren": "MRT Daan Park Sta. (Exit 2) (West)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-20 00:10:03",
+      "infoDate": "2025-04-20",
+      "total": 69,
+      "available_rent_bikes": 2,
+      "latitude": 25.03332,
+      "longitude": 121.53435,
+      "available_return_bikes": 66
+    }
+  }
+]

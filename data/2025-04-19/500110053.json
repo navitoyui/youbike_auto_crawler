@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500110053",
+      "sna": "YouBike2.0_三民公園(塔悠路)",
+      "sarea": "松山區",
+      "mday": "2025-04-19 22:20:03",
+      "ar": "塔悠路/撫遠街261巷(西側)",
+      "sareaen": "Songshan Dist",
+      "snaen": "YouBike2.0_Sanmin Park (Tayou Rd.)",
+      "aren": "Tayou Rd. & Ln. 261， Fuyuan St. (West)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 22:20:03",
+      "infoDate": "2025-04-19",
+      "total": 20,
+      "available_rent_bikes": 6,
+      "latitude": 25.06241,
+      "longitude": 121.56831,
+      "available_return_bikes": 14
+    }
+  }
+]

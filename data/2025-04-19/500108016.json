@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500108016",
+      "sna": "YouBike2.0_捷運大湖公園站(2號出口)",
+      "sarea": "內湖區",
+      "mday": "2025-04-19 22:38:02",
+      "ar": "成功路五段5號東側",
+      "sareaen": "Neihu Dist",
+      "snaen": "YouBike2.0_MRT Dahu Park Sta. (Exit 2)",
+      "aren": "No. 5， Sec. 5， Chenggong Rd. (East)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 22:38:02",
+      "infoDate": "2025-04-19",
+      "total": 46,
+      "available_rent_bikes": 8,
+      "latitude": 25.08395,
+      "longitude": 121.60185,
+      "available_return_bikes": 34
+    }
+  }
+]

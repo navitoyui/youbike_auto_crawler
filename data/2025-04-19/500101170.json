@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500101170",
+      "sna": "YouBike2.0_成功國宅",
+      "sarea": "大安區",
+      "mday": "2025-04-20 00:22:02",
+      "ar": "和平東路三段1巷/四維路198巷口(西北側)",
+      "sareaen": "Daan Dist.",
+      "snaen": "YouBike2.0_Chengong Public Housing",
+      "aren": "Ln. 1， Sec. 3， Heping E. Rd. & Ln. 198， Sihwei Rd. Intersection (Northwest)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-20 00:22:02",
+      "infoDate": "2025-04-20",
+      "total": 36,
+      "available_rent_bikes": 27,
+      "latitude": 25.02681,
+      "longitude": 121.54668,
+      "available_return_bikes": 9
+    }
+  }
+]

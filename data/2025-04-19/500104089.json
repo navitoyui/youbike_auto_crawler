@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500104089",
+      "sna": "YouBike2.0_劍潭海外青年活動中心_1",
+      "sarea": "士林區",
+      "mday": "2025-04-19 22:10:05",
+      "ar": "通河街 / 通河街2巷(南側)",
+      "sareaen": "Shilin Dist",
+      "snaen": "YouBike2.0_Chientan Overseas Youth Activity Center_1",
+      "aren": "Tonghe St. & Ln. 2， Tonghe St.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 22:10:05",
+      "infoDate": "2025-04-19",
+      "total": 39,
+      "available_rent_bikes": 17,
+      "latitude": 25.0796,
+      "longitude": 121.5237,
+      "available_return_bikes": 22
+    }
+  }
+]

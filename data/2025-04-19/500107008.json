@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500107008",
+      "sna": "YouBike2.0_捷運劍南路站(2號出口)",
+      "sarea": "中山區",
+      "mday": "2025-04-19 23:03:15",
+      "ar": "捷運劍南路站(2號出口)旁",
+      "sareaen": "Zhongshan Dist",
+      "snaen": "YouBike2.0_MRT Jiannan Rd. Station (Exit 2)",
+      "aren": "No. 11， Jingye 3rd Rd. (Opposite)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 23:03:15",
+      "infoDate": "2025-04-19",
+      "total": 40,
+      "available_rent_bikes": 0,
+      "latitude": 25.084751813542,
+      "longitude": 121.555090270105,
+      "available_return_bikes": 38
+    }
+  }
+]

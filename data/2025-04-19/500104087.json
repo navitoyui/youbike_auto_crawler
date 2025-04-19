@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500104087",
+      "sna": "YouBike2.0_基河文林路口",
+      "sarea": "士林區",
+      "mday": "2025-04-20 00:30:04",
+      "ar": "基河路3-1號對側人行道",
+      "sareaen": "Shilin Dist",
+      "snaen": "YouBike2.0_Jihe Rd. & Wenlin Rd. Intersection",
+      "aren": "No. 3-1， Jihe Rd. (Opposite)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-20 00:30:04",
+      "infoDate": "2025-04-20",
+      "total": 50,
+      "available_rent_bikes": 4,
+      "latitude": 25.08637,
+      "longitude": 121.5247,
+      "available_return_bikes": 42
+    }
+  }
+]

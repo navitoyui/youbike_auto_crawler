@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500106116",
+      "sna": "YouBike2.0_重慶南詔安街口",
+      "sarea": "中正區",
+      "mday": "2025-04-19 22:03:01",
+      "ar": "重慶南路三段/詔安街",
+      "sareaen": "Zhongzheng Dist",
+      "snaen": "YouBike2.0_Chongqing S. Rd. & Zhao'an St. Intersection",
+      "aren": "Sec. 3， Chongqing S. Rd. & Zhao'an St. Intersection",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 22:03:01",
+      "infoDate": "2025-04-19",
+      "total": 19,
+      "available_rent_bikes": 13,
+      "latitude": 25.02507,
+      "longitude": 121.51645,
+      "available_return_bikes": 5
+    }
+  }
+]

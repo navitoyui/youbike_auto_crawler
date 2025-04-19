@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500111069",
+      "sna": "YouBike2.0_南港車站(興華路)",
+      "sarea": "南港區",
+      "mday": "2025-04-20 00:06:15",
+      "ar": "興華路/市民大道八段路口西北側人行道",
+      "sareaen": "Nangang Dist",
+      "snaen": "YouBike2.0_Nangang Train Sta. (Xinghua Rd.)",
+      "aren": "Xinghua Rd. & Sec. 8， Civic Blvd. Intersection (Northwest)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-20 00:06:15",
+      "infoDate": "2025-04-20",
+      "total": 48,
+      "available_rent_bikes": 40,
+      "latitude": 25.05343,
+      "longitude": 121.60633,
+      "available_return_bikes": 7
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500107077",
+      "sna": "YouBike2.0_中山北路二段59巷口",
+      "sarea": "中山區",
+      "mday": "2025-01-26 16:33:15",
+      "ar": "中山北路二段59之3號前",
+      "sareaen": "Zhongshan Dist",
+      "snaen": "YouBike2.0_Ln. 59， Sec. 2， Zhongshan N. Rd.",
+      "aren": "No. 59-3， Sec. 2， Zhongshan N. Rd.",
+      "act": "0",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-01-26 16:33:15",
+      "infoDate": "2025-01-26",
+      "total": 12,
+      "available_rent_bikes": 0,
+      "latitude": 25.05606,
+      "longitude": 121.5229,
+      "available_return_bikes": 12
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500101146",
+      "sna": "YouBike2.0_光信公園(光復南路456巷)",
+      "sarea": "大安區",
+      "mday": "2025-04-20 00:14:02",
+      "ar": "延吉街249號",
+      "sareaen": "Daan Dist.",
+      "snaen": "YouBike2.0_Guangxin Park (Ln. 456， Guangfu S. Rd)",
+      "aren": "No. 249， Yanji St.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-20 00:14:02",
+      "infoDate": "2025-04-20",
+      "total": 25,
+      "available_rent_bikes": 20,
+      "latitude": 25.03513,
+      "longitude": 121.5561,
+      "available_return_bikes": 5
+    }
+  }
+]

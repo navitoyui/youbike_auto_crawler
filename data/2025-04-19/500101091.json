@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500101091",
+      "sna": "YouBike2.0_國北教大側門南側",
+      "sarea": "大安區",
+      "mday": "2025-04-19 23:04:16",
+      "ar": "敦南街51號",
+      "sareaen": "Daan Dist.",
+      "snaen": "YouBike2.0_NTUE Side Gate(South)",
+      "aren": "No. 51， Dunnan St.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 23:04:16",
+      "infoDate": "2025-04-19",
+      "total": 34,
+      "available_rent_bikes": 33,
+      "latitude": 25.022864,
+      "longitude": 121.546622,
+      "available_return_bikes": 0
+    }
+  }
+]

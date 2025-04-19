@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500111095",
+      "sna": "YouBike2.0_玉成街(中坡北路50巷口)",
+      "sarea": "南港區",
+      "mday": "2025-04-19 19:50:02",
+      "ar": "玉成街66-9號前",
+      "sareaen": "Nangang Dist",
+      "snaen": "YouBike2.0_YuCheng St. (Ln. 50， ZhongPo N. Rd.)",
+      "aren": "No. 66-9， YuCheng St.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 19:50:02",
+      "infoDate": "2025-04-19",
+      "total": 20,
+      "available_rent_bikes": 10,
+      "latitude": 25.04691,
+      "longitude": 121.58192,
+      "available_return_bikes": 10
+    }
+  }
+]

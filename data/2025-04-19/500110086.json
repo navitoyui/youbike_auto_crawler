@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500110086",
+      "sna": "YouBike2.0_民權敦化路口(西北側)",
+      "sarea": "松山區",
+      "mday": "2025-04-19 22:38:02",
+      "ar": "民權東路三段211號前人行道",
+      "sareaen": "Songshan Dist",
+      "snaen": "YouBike2.0_MinQuan Rd. & DunHua Rd. Intersection (Northwest)",
+      "aren": "No. 211， Sec. 3， Minquan E. Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 22:38:02",
+      "infoDate": "2025-04-19",
+      "total": 24,
+      "available_rent_bikes": 11,
+      "latitude": 25.06185,
+      "longitude": 121.55,
+      "available_return_bikes": 13
+    }
+  }
+]

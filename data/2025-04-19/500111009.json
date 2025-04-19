@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500111009",
+      "sna": "YouBike2.0_玉成公園",
+      "sarea": "南港區",
+      "mday": "2025-04-19 22:30:02",
+      "ar": "玉成街247號對側",
+      "sareaen": "Nangang Dist",
+      "snaen": "YouBike2.0_Yucheng Park",
+      "aren": "No. 247， Yucheng St. (Opposite)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 22:30:02",
+      "infoDate": "2025-04-19",
+      "total": 36,
+      "available_rent_bikes": 23,
+      "latitude": 25.04281,
+      "longitude": 121.58613,
+      "available_return_bikes": 13
+    }
+  }
+]

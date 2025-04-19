@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500110041",
+      "sna": "YouBike2.0_復盛公園",
+      "sarea": "松山區",
+      "mday": "2025-04-19 21:50:04",
+      "ar": "八德路四段106巷/八德路四段106巷6弄口(東側)",
+      "sareaen": "Songshan Dist",
+      "snaen": "YouBike2.0_Fusheng Park",
+      "aren": "Ln. 106， Sec. 4， Bade Rd. & Aly. 6， Ln. 106， Sec. 4， Bade Rd. Intersection (East)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 21:50:04",
+      "infoDate": "2025-04-19",
+      "total": 37,
+      "available_rent_bikes": 15,
+      "latitude": 25.04763,
+      "longitude": 121.56115,
+      "available_return_bikes": 22
+    }
+  }
+]

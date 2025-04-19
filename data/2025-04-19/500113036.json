@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500113036",
+      "sna": "YouBike2.0_長沙公園",
+      "sarea": "萬華區",
+      "mday": "2025-04-19 23:39:02",
+      "ar": "環河南路一段280-1號(對面)",
+      "sareaen": "Wanhua Dist",
+      "snaen": "YouBike2.0_Changsha Park",
+      "aren": "No. 280-1， Sec. 1， Huanhe S Rd. (Opposite)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 23:39:02",
+      "infoDate": "2025-04-19",
+      "total": 30,
+      "available_rent_bikes": 19,
+      "latitude": 25.0417,
+      "longitude": 121.49992,
+      "available_return_bikes": 11
+    }
+  }
+]

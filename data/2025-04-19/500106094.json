@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500106094",
+      "sna": "YouBike2.0_杭州南路一段101巷口",
+      "sarea": "中正區",
+      "mday": "2025-04-19 21:44:14",
+      "ar": "金山南路一段72號前",
+      "sareaen": "Zhongzheng Dist",
+      "snaen": "YouBike2.0_Ln. 101， Sec. 1， Hangzhou S. Rd.",
+      "aren": "No. 72， Sec. 1， Jinshan S. Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 21:44:14",
+      "infoDate": "2025-04-19",
+      "total": 14,
+      "available_rent_bikes": 1,
+      "latitude": 25.03746,
+      "longitude": 121.52799,
+      "available_return_bikes": 13
+    }
+  }
+]

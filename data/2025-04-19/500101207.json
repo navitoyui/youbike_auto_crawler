@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500101207",
+      "sna": "YouBike2.0_捷運臺電大樓站(2號出口)_1",
+      "sarea": "大安區",
+      "mday": "2025-04-20 00:30:04",
+      "ar": "羅斯福路三段201號旁",
+      "sareaen": "Daan Dist.",
+      "snaen": "YouBike2.0_MRT Taipower Building Sta. (Exit 2)_1",
+      "aren": "No. 201， Sec. 3， Roosevelt Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-20 00:30:04",
+      "infoDate": "2025-04-20",
+      "total": 38,
+      "available_rent_bikes": 5,
+      "latitude": 25.02055,
+      "longitude": 121.52855,
+      "available_return_bikes": 33
+    }
+  }
+]

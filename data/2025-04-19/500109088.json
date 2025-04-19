@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500109088",
+      "sna": "YouBike2.0_公舘承德路口",
+      "sarea": "北投區",
+      "mday": "2025-04-19 23:46:02",
+      "ar": "承德路七段390號前",
+      "sareaen": "Beitou Dist",
+      "snaen": "YouBike2.0_Gongguan Rd. & Chengde Rd. Intersection",
+      "aren": "No. 390， Sec. 7， Chengde Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 23:46:02",
+      "infoDate": "2025-04-19",
+      "total": 25,
+      "available_rent_bikes": 7,
+      "latitude": 25.11969,
+      "longitude": 121.50169,
+      "available_return_bikes": 18
+    }
+  }
+]

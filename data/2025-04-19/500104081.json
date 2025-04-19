@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500104081",
+      "sna": "YouBike2.0_雨農橋",
+      "sarea": "士林區",
+      "mday": "2025-04-19 21:27:14",
+      "ar": "福志路14巷42號(對面)",
+      "sareaen": "Shilin Dist",
+      "snaen": "YouBike2.0_Yunong Bridge",
+      "aren": "No. 42， Ln. 14， Fuzhi Rd. (Opposite)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 21:27:14",
+      "infoDate": "2025-04-19",
+      "total": 16,
+      "available_rent_bikes": 4,
+      "latitude": 25.10012,
+      "longitude": 121.53253,
+      "available_return_bikes": 12
+    }
+  }
+]

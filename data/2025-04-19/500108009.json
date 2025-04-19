@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500108009",
+      "sna": "YouBike2.0_麗山高中",
+      "sarea": "內湖區",
+      "mday": "2025-04-19 22:11:01",
+      "ar": "環山路二段141號北側",
+      "sareaen": "Neihu Dist",
+      "snaen": "YouBike2.0_Lishan Senior High School",
+      "aren": "No. 141， Sec. 2， Huanshan Rd.(North)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 22:11:01",
+      "infoDate": "2025-04-19",
+      "total": 33,
+      "available_rent_bikes": 3,
+      "latitude": 25.08398,
+      "longitude": 121.57725,
+      "available_return_bikes": 28
+    }
+  }
+]

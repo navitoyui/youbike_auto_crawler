@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500113003",
+      "sna": "YouBike2.0_萬大路486巷口",
+      "sarea": "萬華區",
+      "mday": "2025-04-19 22:38:14",
+      "ar": "萬大路482號(旁)",
+      "sareaen": "Wanhua Dist",
+      "snaen": "YouBike2.0_Ln. 486， Wanda Rd",
+      "aren": "No. 482， Wanda Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 22:38:14",
+      "infoDate": "2025-04-19",
+      "total": 10,
+      "available_rent_bikes": 1,
+      "latitude": 25.01975,
+      "longitude": 121.4973,
+      "available_return_bikes": 8
+    }
+  }
+]

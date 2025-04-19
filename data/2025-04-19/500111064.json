@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500111064",
+      "sna": "YouBike2.0_南港公園(東新街170巷)",
+      "sarea": "南港區",
+      "mday": "2025-04-19 18:57:14",
+      "ar": "東新街170巷63號對側",
+      "sareaen": "Nangang Dist",
+      "snaen": "YouBike2.0_Nangang Park (Ln. 170， Dongxin St.)",
+      "aren": "No. 63， Ln. 170， Dongxin St. (Opposite)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 18:57:14",
+      "infoDate": "2025-04-19",
+      "total": 16,
+      "available_rent_bikes": 8,
+      "latitude": 25.04134,
+      "longitude": 121.59323,
+      "available_return_bikes": 8
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500103003",
+      "sna": "YouBike2.0_合昌宮",
+      "sarea": "大同區",
+      "mday": "2025-04-19 21:40:03",
+      "ar": "環河北路二段371號旁",
+      "sareaen": "Datong Dist",
+      "snaen": "YouBike2.0_Hechang Temple",
+      "aren": "No. 371， Sec. 2， Huanhe N. Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 21:40:03",
+      "infoDate": "2025-04-19",
+      "total": 15,
+      "available_rent_bikes": 12,
+      "latitude": 25.07717,
+      "longitude": 121.50934,
+      "available_return_bikes": 3
+    }
+  }
+]

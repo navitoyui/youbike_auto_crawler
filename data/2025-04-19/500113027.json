@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500113027",
+      "sna": "YouBike2.0_華江國小",
+      "sarea": "萬華區",
+      "mday": "2025-04-19 22:09:02",
+      "ar": "環河南路二段250巷25弄2號對側",
+      "sareaen": "Wanhua Dist",
+      "snaen": "YouBike2.0_Hwa Chiang Elementary School",
+      "aren": "No. 2， Aly. 25， Ln. 250， Sec. 2， Huanhe S. R. (Opposite)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 22:09:02",
+      "infoDate": "2025-04-19",
+      "total": 17,
+      "available_rent_bikes": 11,
+      "latitude": 25.03397,
+      "longitude": 121.49029,
+      "available_return_bikes": 5
+    }
+  }
+]

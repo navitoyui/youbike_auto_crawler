@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500103062",
+      "sna": "YouBike2.0_寧夏涼州街口",
+      "sarea": "大同區",
+      "mday": "2025-04-19 22:09:02",
+      "ar": "寧夏路141號對側",
+      "sareaen": "Datong Dist",
+      "snaen": "YouBike2.0_Ningxia Rd. & Liangzhou St. Intersection",
+      "aren": "No. 141， Ningxia Rd. (Opposite)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 22:09:02",
+      "infoDate": "2025-04-19",
+      "total": 15,
+      "available_rent_bikes": 6,
+      "latitude": 25.06095,
+      "longitude": 121.51428,
+      "available_return_bikes": 8
+    }
+  }
+]

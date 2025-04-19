@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500107062",
+      "sna": "YouBike2.0_捷運行天宮站(1號出口)",
+      "sarea": "中山區",
+      "mday": "2025-04-19 22:20:03",
+      "ar": "松江路230號前",
+      "sareaen": "Zhongshan Dist",
+      "snaen": "YouBike2.0_MRT Xingtian Temple Sta. (Exit 1)",
+      "aren": "No. 230， Songjiang Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 22:20:03",
+      "infoDate": "2025-04-19",
+      "total": 49,
+      "available_rent_bikes": 4,
+      "latitude": 25.05867,
+      "longitude": 121.53305,
+      "available_return_bikes": 44
+    }
+  }
+]

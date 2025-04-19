@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500109010",
+      "sna": "YouBike2.0_捷運忠義站(1號出口)",
+      "sarea": "北投區",
+      "mday": "2025-04-19 21:50:04",
+      "ar": "中央北路四段262號(對面)",
+      "sareaen": "Beitou Dist",
+      "snaen": "YouBike2.0_MRT Zhongyi Sta. (Exit 1)",
+      "aren": "No. 262， Sec. 4， Zhongyang N. Rd. (Opposite)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 21:50:04",
+      "infoDate": "2025-04-19",
+      "total": 30,
+      "available_rent_bikes": 3,
+      "latitude": 25.13149,
+      "longitude": 121.47365,
+      "available_return_bikes": 27
+    }
+  }
+]

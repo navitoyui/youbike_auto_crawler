@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500111045",
+      "sna": "YouBike2.0_八德中坡路口",
+      "sarea": "南港區",
+      "mday": "2025-04-19 21:20:03",
+      "ar": "八德路四段873號",
+      "sareaen": "Nangang Dist",
+      "snaen": "YouBike2.0_Bade Rd. & Zhongpo Rd. Intersection",
+      "aren": "No. 873， Sec. 4， Bade Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 21:20:03",
+      "infoDate": "2025-04-19",
+      "total": 40,
+      "available_rent_bikes": 22,
+      "latitude": 25.05064,
+      "longitude": 121.5803,
+      "available_return_bikes": 18
+    }
+  }
+]

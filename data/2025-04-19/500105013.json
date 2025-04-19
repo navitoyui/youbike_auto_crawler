@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500105013",
+      "sna": "YouBike2.0_景美運動公園",
+      "sarea": "文山區",
+      "mday": "2025-04-20 00:14:02",
+      "ar": "景豐街79號(旁公園)",
+      "sareaen": "Wenshan Dist",
+      "snaen": "YouBike2.0_Jingmei Sports Park",
+      "aren": "No. 79， Jingfeng St. (Side)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-20 00:14:02",
+      "infoDate": "2025-04-20",
+      "total": 26,
+      "available_rent_bikes": 19,
+      "latitude": 25.00219,
+      "longitude": 121.54454,
+      "available_return_bikes": 7
+    }
+  }
+]

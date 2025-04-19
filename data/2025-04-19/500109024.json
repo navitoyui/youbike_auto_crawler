@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500109024",
+      "sna": "YouBike2.0_捷運北投站",
+      "sarea": "北投區",
+      "mday": "2025-04-19 21:20:03",
+      "ar": "光明路2巷3號(對面)",
+      "sareaen": "Beitou Dist",
+      "snaen": "YouBike2.0_MRT Beitou Station",
+      "aren": "No. 3， Ln. 2， Guangming Rd. (Opposite)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 21:20:03",
+      "infoDate": "2025-04-19",
+      "total": 30,
+      "available_rent_bikes": 21,
+      "latitude": 25.13187,
+      "longitude": 121.499,
+      "available_return_bikes": 9
+    }
+  }
+]

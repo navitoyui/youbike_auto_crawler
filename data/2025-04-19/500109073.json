@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500109073",
+      "sna": "YouBike2.0_北投公園露天溫泉",
+      "sarea": "北投區",
+      "mday": "2025-04-19 22:50:04",
+      "ar": "中山路6號西側(北投溪木道西側)",
+      "sareaen": "Beitou Dist",
+      "snaen": "YouBike2.0_Beitou Public Hotspring",
+      "aren": "No. 6， Zhongshan Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 22:50:04",
+      "infoDate": "2025-04-19",
+      "total": 15,
+      "available_rent_bikes": 8,
+      "latitude": 25.13684,
+      "longitude": 121.50792,
+      "available_return_bikes": 6
+    }
+  }
+]

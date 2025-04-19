@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500101101",
+      "sna": "YouBike2.0_捷運六張犁站",
+      "sarea": "大安區",
+      "mday": "2025-04-20 00:22:15",
+      "ar": "和平東路三段410號",
+      "sareaen": "Daan Dist.",
+      "snaen": "YouBike2.0_MRT Liuzhangli Sta.",
+      "aren": "No. 410， Sec. 3， Heping E. Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-20 00:22:15",
+      "infoDate": "2025-04-20",
+      "total": 64,
+      "available_rent_bikes": 0,
+      "latitude": 25.02397,
+      "longitude": 121.55266,
+      "available_return_bikes": 64
+    }
+  }
+]

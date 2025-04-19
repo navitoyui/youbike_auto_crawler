@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500111114",
+      "sna": "YouBike2.0_市民昆陽街口",
+      "sarea": "南港區",
+      "mday": "2025-04-19 22:34:02",
+      "ar": "市民大道七段/昆陽街東北側",
+      "sareaen": "Nangang Dist",
+      "snaen": "YouBike2.0_Civic Blvd. & KunyAng St. Intersection",
+      "aren": "Sec. 7， Civic Blvd. & KunyAng St. Intersection (Northeast)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 22:34:02",
+      "infoDate": "2025-04-19",
+      "total": 30,
+      "available_rent_bikes": 12,
+      "latitude": 25.05124,
+      "longitude": 121.59361,
+      "available_return_bikes": 17
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500109018",
+      "sna": "YouBike2.0_稻香重三路口",
+      "sarea": "北投區",
+      "mday": "2025-04-19 12:40:02",
+      "ar": "稻香重三路口(對面路側)",
+      "sareaen": "Beitou Dist",
+      "snaen": "YouBike2.0_Daoxiang Chongshan Rd. Intersection",
+      "aren": "Daoxiang & Chongshan Rd. Intersection",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 12:40:02",
+      "infoDate": "2025-04-19",
+      "total": 15,
+      "available_rent_bikes": 10,
+      "latitude": 25.13997,
+      "longitude": 121.48967,
+      "available_return_bikes": 4
+    }
+  }
+]

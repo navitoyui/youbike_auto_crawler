@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500101223",
+      "sna": "YouBike2.0_樂利路101巷口",
+      "sarea": "大安區",
+      "mday": "2025-04-19 23:50:04",
+      "ar": "樂利路97號前",
+      "sareaen": "Daan Dist.",
+      "snaen": "YouBike2.0_Ln. 101， Leli Rd.",
+      "aren": "No. 97， Leli Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 23:50:04",
+      "infoDate": "2025-04-19",
+      "total": 13,
+      "available_rent_bikes": 4,
+      "latitude": 25.02528,
+      "longitude": 121.55224,
+      "available_return_bikes": 4
+    }
+  }
+]

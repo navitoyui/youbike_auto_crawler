@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500107111",
+      "sna": "YouBike2.0_長春龍江路口",
+      "sarea": "中山區",
+      "mday": "2025-04-19 22:34:02",
+      "ar": "長春路與龍江路口西北側",
+      "sareaen": "Zhongshan Dist",
+      "snaen": "YouBike2.0_Changchun Rd. & Longjiang Rd. Intersection",
+      "aren": "Changchun Rd. & Longjiang Rd. Intersection (Northwest)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 22:34:02",
+      "infoDate": "2025-04-19",
+      "total": 39,
+      "available_rent_bikes": 13,
+      "latitude": 25.05473,
+      "longitude": 121.54026,
+      "available_return_bikes": 24
+    }
+  }
+]

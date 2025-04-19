@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500108189",
+      "sna": "YouBike2.0_捷運大湖公園站(1號出口)",
+      "sarea": "內湖區",
+      "mday": "2025-04-20 00:28:15",
+      "ar": "捷運大湖公園站(1號出口)外側",
+      "sareaen": "Neihu Dist",
+      "snaen": "YouBike2.0_MRT Dahu Park Sta. (Exit 1)",
+      "aren": "MRT Dahu Park Sta. (Exit 1)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-20 00:28:15",
+      "infoDate": "2025-04-20",
+      "total": 24,
+      "available_rent_bikes": 0,
+      "latitude": 25.08383,
+      "longitude": 121.60253,
+      "available_return_bikes": 24
+    }
+  }
+]

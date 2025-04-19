@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500103038",
+      "sna": "YouBike2.0_國順公園",
+      "sarea": "大同區",
+      "mday": "2025-04-19 23:30:04",
+      "ar": "昌吉街117號前",
+      "sareaen": "Datong Dist",
+      "snaen": "YouBike2.0_Guoshun Park",
+      "aren": "No. 117， Changji St.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 23:30:04",
+      "infoDate": "2025-04-19",
+      "total": 20,
+      "available_rent_bikes": 16,
+      "latitude": 25.06594,
+      "longitude": 121.51078,
+      "available_return_bikes": 2
+    }
+  }
+]

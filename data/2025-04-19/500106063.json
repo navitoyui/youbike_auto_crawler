@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500106063",
+      "sna": "YouBike2.0_寶藏巖觀音亭",
+      "sarea": "中正區",
+      "mday": "2025-04-19 22:05:16",
+      "ar": "汀州路三段230巷23號",
+      "sareaen": "Zhongzheng Dist",
+      "snaen": "YouBike2.0_Treasure Hill Guanyin Temple",
+      "aren": "No. 23， Ln. 230， Sec. 3， Tingzhou Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 22:05:16",
+      "infoDate": "2025-04-19",
+      "total": 23,
+      "available_rent_bikes": 0,
+      "latitude": 25.01027,
+      "longitude": 121.5331,
+      "available_return_bikes": 22
+    }
+  }
+]

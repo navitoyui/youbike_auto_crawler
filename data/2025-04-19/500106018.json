@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500106018",
+      "sna": "YouBike2.0_和平重慶路口",
+      "sarea": "中正區",
+      "mday": "2025-04-19 23:39:02",
+      "ar": "和平西路一段/福州街口東側",
+      "sareaen": "Zhongzheng Dist",
+      "snaen": "YouBike2.0_Heping & Chongqing Rd. Intersection",
+      "aren": "Sec. 1， Heping W. Rd. & Fuzhou St. Intersection (East)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 23:39:02",
+      "infoDate": "2025-04-19",
+      "total": 69,
+      "available_rent_bikes": 24,
+      "latitude": 25.02723,
+      "longitude": 121.51659,
+      "available_return_bikes": 45
+    }
+  }
+]

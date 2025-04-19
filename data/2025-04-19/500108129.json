@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500108129",
+      "sna": "YouBike2.0_明美公園(行善路333巷)",
+      "sarea": "內湖區",
+      "mday": "2025-04-19 22:00:02",
+      "ar": "行善路333巷92號前",
+      "sareaen": "Neihu Dist",
+      "snaen": "YouBike2.0_Mingmei Park (Ln. 333， Xingshan Rd.)",
+      "aren": "No. 92， Ln. 333， Xingshan Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 22:00:02",
+      "infoDate": "2025-04-19",
+      "total": 16,
+      "available_rent_bikes": 10,
+      "latitude": 25.06058,
+      "longitude": 121.5866,
+      "available_return_bikes": 5
+    }
+  }
+]

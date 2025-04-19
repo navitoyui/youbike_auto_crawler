@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500101026",
+      "sna": "YouBike2.0_公館公園",
+      "sarea": "大安區",
+      "mday": "2025-04-19 23:53:14",
+      "ar": "羅斯福路四段113巷基隆路四段41巷口",
+      "sareaen": "Daan Dist.",
+      "snaen": "YouBike2.0_Gongguan Park",
+      "aren": "Ln. 113， Sec. 4， Roosevelt Rd. & Ln. 41， Sec. 4， Keelung Rd. Intersection",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 23:53:14",
+      "infoDate": "2025-04-19",
+      "total": 30,
+      "available_rent_bikes": 30,
+      "latitude": 25.01137,
+      "longitude": 121.54062,
+      "available_return_bikes": 0
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500107165",
+      "sna": "YouBike2.0_吉林南京路口(西北側)",
+      "sarea": "中山區",
+      "mday": "2025-04-19 21:53:02",
+      "ar": "南京東路二段53號旁",
+      "sareaen": "Zhongshan Dist",
+      "snaen": "YouBike2.0_JiLin Rd. & NanJing E. Rd. Intersection (Northwest)",
+      "aren": "No. 53， Sec. 2， NanJing E. Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 21:53:02",
+      "infoDate": "2025-04-19",
+      "total": 22,
+      "available_rent_bikes": 4,
+      "latitude": 25.05234,
+      "longitude": 121.53003,
+      "available_return_bikes": 18
+    }
+  }
+]

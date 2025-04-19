@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500104010",
+      "sna": "YouBike2.0_忠誠路二段53巷",
+      "sarea": "士林區",
+      "mday": "2025-04-19 22:11:01",
+      "ar": "忠誠路2段53巷7號(對面)",
+      "sareaen": "Shilin Dist",
+      "snaen": "YouBike2.0_Ln. 53， Sec. 2， Zhongcheng Rd.",
+      "aren": "No.7， Ln. 53， Sec. 2， Zhongcheng Rd. (Opposite)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 22:11:01",
+      "infoDate": "2025-04-19",
+      "total": 37,
+      "available_rent_bikes": 16,
+      "latitude": 25.11127,
+      "longitude": 121.53244,
+      "available_return_bikes": 20
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500103037",
+      "sna": "YouBike2.0_太原廣場",
+      "sarea": "大同區",
+      "mday": "2025-04-19 23:30:04",
+      "ar": "鄭州路23號(旁)",
+      "sareaen": "Datong Dist",
+      "snaen": "YouBike2.0_Tai Yuan Guang Chang",
+      "aren": "No. 23， Zhengzhou Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 23:30:04",
+      "infoDate": "2025-04-19",
+      "total": 31,
+      "available_rent_bikes": 8,
+      "latitude": 25.04925,
+      "longitude": 121.51468,
+      "available_return_bikes": 23
+    }
+  }
+]

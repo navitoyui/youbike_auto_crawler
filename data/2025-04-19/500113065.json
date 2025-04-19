@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500113065",
+      "sna": "YouBike2.0_萬華國中_1",
+      "sarea": "萬華區",
+      "mday": "2025-04-19 23:50:04",
+      "ar": "西藏路 / 莒光路299巷口(東南側)",
+      "sareaen": "Wanhua Dist",
+      "snaen": "YouBike2.0_Wanhuaguomin Junior High School",
+      "aren": "Xizang Rd. & Ln. 299， Juguang Rd. Intersection (Southeast)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 23:50:04",
+      "infoDate": "2025-04-19",
+      "total": 36,
+      "available_rent_bikes": 7,
+      "latitude": 25.02926,
+      "longitude": 121.49936,
+      "available_return_bikes": 29
+    }
+  }
+]

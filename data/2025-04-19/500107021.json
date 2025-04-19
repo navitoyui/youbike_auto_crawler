@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500107021",
+      "sna": "YouBike2.0_第二果菜批發市場",
+      "sarea": "中山區",
+      "mday": "2025-04-20 00:04:01",
+      "ar": "民族東路410巷2弄18號(東側)",
+      "sareaen": "Zhongshan Dist",
+      "snaen": "YouBike2.0_The Second Wholesale Fruit and Vegetable Market",
+      "aren": "No. 18， Aly. 2， Ln. 410， Minzu E Rd. (East)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-20 00:04:01",
+      "infoDate": "2025-04-20",
+      "total": 40,
+      "available_rent_bikes": 12,
+      "latitude": 25.06642,
+      "longitude": 121.53735,
+      "available_return_bikes": 28
+    }
+  }
+]

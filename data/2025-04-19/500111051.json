@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500111051",
+      "sna": "YouBike2.0_南港車站B棟(市民大道)",
+      "sarea": "南港區",
+      "mday": "2025-04-19 22:48:02",
+      "ar": "忠孝東路七段359號(市民大道)",
+      "sareaen": "Nangang Dist",
+      "snaen": "YouBike2.0_Nangang Station Building B (Civic Blvd.)",
+      "aren": "No. 359， Sec. 7， Zhongxiao E. Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 22:48:02",
+      "infoDate": "2025-04-19",
+      "total": 24,
+      "available_rent_bikes": 10,
+      "latitude": 25.05293,
+      "longitude": 121.60549,
+      "available_return_bikes": 14
+    }
+  }
+]

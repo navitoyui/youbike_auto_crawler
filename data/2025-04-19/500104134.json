@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500104134",
+      "sna": "YouBike2.0_中山北路五段378巷口",
+      "sarea": "士林區",
+      "mday": "2025-04-19 22:03:01",
+      "ar": "中山北路五段380號(前)",
+      "sareaen": "Shilin Dist",
+      "snaen": "YouBike2.0_Ln. 378， Sec. 5， ZhongShan N. Rd.",
+      "aren": "No. 380， Sec. 5， ZhongShan N. Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 22:03:01",
+      "infoDate": "2025-04-19",
+      "total": 27,
+      "available_rent_bikes": 7,
+      "latitude": 25.09064,
+      "longitude": 121.52765,
+      "available_return_bikes": 20
+    }
+  }
+]

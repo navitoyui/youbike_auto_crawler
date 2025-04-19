@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500107119",
+      "sna": "YouBike2.0_中428公園",
+      "sarea": "中山區",
+      "mday": "2025-04-19 21:13:16",
+      "ar": "樂群二路30巷/樂群二路116巷61弄",
+      "sareaen": "Zhongshan Dist",
+      "snaen": "YouBike2.0_Zhong 428 Park",
+      "aren": "Ln. 30， Lequn 2nd Rd. & Aly. 61， Ln. 116， Lequn 2nd Rd. Intersection",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 21:13:16",
+      "infoDate": "2025-04-19",
+      "total": 15,
+      "available_rent_bikes": 5,
+      "latitude": 25.07825,
+      "longitude": 121.55337,
+      "available_return_bikes": 10
+    }
+  }
+]

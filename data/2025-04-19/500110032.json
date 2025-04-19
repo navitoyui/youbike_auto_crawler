@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500110032",
+      "sna": "YouBike2.0_市民東興路口",
+      "sarea": "松山區",
+      "mday": "2025-04-19 21:53:02",
+      "ar": "東興路33號南側",
+      "sareaen": "Songshan Dist",
+      "snaen": "YouBike2.0_Civic Blvd. & Dongxing Rd. Intersection",
+      "aren": "No. 33， Dongxing Rd. (South)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 21:53:02",
+      "infoDate": "2025-04-19",
+      "total": 30,
+      "available_rent_bikes": 17,
+      "latitude": 25.0484,
+      "longitude": 121.56586,
+      "available_return_bikes": 13
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500101138",
+      "sna": "YouBike2.0_仁愛安和路口",
+      "sarea": "大安區",
+      "mday": "2025-04-19 22:22:02",
+      "ar": "仁愛路四段258號前",
+      "sareaen": "Daan Dist.",
+      "snaen": "YouBike2.0_Sec. 4， Ren'ai Rd & Sec. 1， Anhe Rd Intersection",
+      "aren": "No. 74， Sec. 4， Ren'ai Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 22:22:02",
+      "infoDate": "2025-04-19",
+      "total": 33,
+      "available_rent_bikes": 14,
+      "latitude": 25.03754,
+      "longitude": 121.55285,
+      "available_return_bikes": 19
+    }
+  }
+]

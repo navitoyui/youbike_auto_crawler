@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500103028",
+      "sna": "YouBike2.0_捷運北門站(3號出口)",
+      "sarea": "大同區",
+      "mday": "2025-04-19 23:44:01",
+      "ar": "塔城街與鄭州路口西南側",
+      "sareaen": "Datong Dist",
+      "snaen": "YouBike2.0_MRT Beimen. (Exit 3)",
+      "aren": "Tacheng St. & Zhengzhou Rd. Intersection (Southwest)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 23:44:01",
+      "infoDate": "2025-04-19",
+      "total": 62,
+      "available_rent_bikes": 28,
+      "latitude": 25.04991,
+      "longitude": 121.5104,
+      "available_return_bikes": 34
+    }
+  }
+]

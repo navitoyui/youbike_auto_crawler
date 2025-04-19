@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500105042",
+      "sna": "YouBike2.0_萊茵公園",
+      "sarea": "文山區",
+      "mday": "2025-04-19 21:53:02",
+      "ar": "忠順街二段87巷25弄29號",
+      "sareaen": "Wenshan Dist",
+      "snaen": "YouBike2.0_Laiyin Park",
+      "aren": "No. 29， Aly. 25， Ln. 87， Sec. 2， Zhongshun St.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 21:53:02",
+      "infoDate": "2025-04-19",
+      "total": 14,
+      "available_rent_bikes": 4,
+      "latitude": 24.98642,
+      "longitude": 121.56514,
+      "available_return_bikes": 10
+    }
+  }
+]

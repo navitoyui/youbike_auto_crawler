@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500109080",
+      "sna": "YouBike2.0_福國承德路口",
+      "sarea": "北投區",
+      "mday": "2025-04-19 06:33:03",
+      "ar": "承德路六段80號南側",
+      "sareaen": "Beitou Dist",
+      "snaen": "YouBike2.0_Fuguo Rd. & Chengde Rd. Intersection",
+      "aren": "No. 80， Sec. 6， Chengde Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 06:33:03",
+      "infoDate": "2025-04-19",
+      "total": 15,
+      "available_rent_bikes": 3,
+      "latitude": 25.10171,
+      "longitude": 121.51263,
+      "available_return_bikes": 12
+    }
+  }
+]

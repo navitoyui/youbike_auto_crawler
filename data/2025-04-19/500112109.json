@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500112109",
+      "sna": "YouBike2.0_松仁路253巷4弄口",
+      "sarea": "信義區",
+      "mday": "2025-04-19 23:09:02",
+      "ar": "松仁路253巷4弄1號前",
+      "sareaen": "Xinyi Dist",
+      "snaen": "YouBike2.0_Aly. 4， Ln. 253， SongRen Rd.",
+      "aren": "No. 1， Aly. 4， Ln. 253， Songren Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 23:09:02",
+      "infoDate": "2025-04-19",
+      "total": 22,
+      "available_rent_bikes": 16,
+      "latitude": 25.02559,
+      "longitude": 121.56954,
+      "available_return_bikes": 6
+    }
+  }
+]

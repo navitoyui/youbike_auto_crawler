@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500110079",
+      "sna": "YouBike2.0_塔悠基隆路口(麥帥一橋下)",
+      "sarea": "松山區",
+      "mday": "2025-04-20 00:30:04",
+      "ar": "南京東路五段386號前",
+      "sareaen": "Songshan Dist",
+      "snaen": "YouBike2.0_Tayou Rd. & Keelung Rd. Intersection (First MacArthur Bridge)",
+      "aren": "No. 386， Sec. 5， Nanjing E. Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-20 00:30:04",
+      "infoDate": "2025-04-20",
+      "total": 20,
+      "available_rent_bikes": 1,
+      "latitude": 25.05139,
+      "longitude": 121.57062,
+      "available_return_bikes": 19
+    }
+  }
+]

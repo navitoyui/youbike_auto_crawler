@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500108111",
+      "sna": "YouBike2.0_新湖國小",
+      "sarea": "內湖區",
+      "mday": "2025-04-19 17:10:05",
+      "ar": "民權東路六段/成功路二段320巷31弄(東南側)",
+      "sareaen": "Neihu Dist",
+      "snaen": "YouBike2.0_XinHu Elementary School",
+      "aren": "Sec. 6， Minquan E. Rd. & Aly. 31， Ln. 320， Sec. 2， Chenggong Rd. Intersection (Southeast)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 17:10:05",
+      "infoDate": "2025-04-19",
+      "total": 23,
+      "available_rent_bikes": 2,
+      "latitude": 25.06874,
+      "longitude": 121.58923,
+      "available_return_bikes": 20
+    }
+  }
+]

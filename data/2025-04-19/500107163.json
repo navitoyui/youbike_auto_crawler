@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500107163",
+      "sna": "YouBike2.0_中山市場",
+      "sarea": "中山區",
+      "mday": "2025-04-19 22:22:02",
+      "ar": "長安西路3號",
+      "sareaen": "Zhongshan Dist",
+      "snaen": "YouBike2.0_ZhongShan Market",
+      "aren": "No. 3， ChangAn W. Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 22:22:02",
+      "infoDate": "2025-04-19",
+      "total": 16,
+      "available_rent_bikes": 3,
+      "latitude": 25.05007,
+      "longitude": 121.52107,
+      "available_return_bikes": 13
+    }
+  }
+]

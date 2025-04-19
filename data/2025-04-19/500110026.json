@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500110026",
+      "sna": "YouBike2.0_八德路三段74巷口",
+      "sarea": "松山區",
+      "mday": "2025-04-19 22:48:02",
+      "ar": "八德路三段74巷95號南側",
+      "sareaen": "Songshan Dist",
+      "snaen": "YouBike2.0_Ln. 74， Sec. 3， Bade Rd. Intersection",
+      "aren": "No. 95， Ln. 74， Sec. 3， Bade Rd. (South)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 22:48:02",
+      "infoDate": "2025-04-19",
+      "total": 17,
+      "available_rent_bikes": 4,
+      "latitude": 25.04459,
+      "longitude": 121.55252,
+      "available_return_bikes": 13
+    }
+  }
+]

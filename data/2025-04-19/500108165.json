@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500108165",
+      "sna": "YouBike2.0_東湖四號公園",
+      "sarea": "內湖區",
+      "mday": "2025-04-19 22:32:16",
+      "ar": "康樂街110巷21號對側",
+      "sareaen": "Neihu Dist",
+      "snaen": "YouBike2.0_Donghu Park No.4",
+      "aren": "No. 21， Ln. 110， Kangle St. (Opposite)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 22:32:16",
+      "infoDate": "2025-04-19",
+      "total": 28,
+      "available_rent_bikes": 28,
+      "latitude": 25.07074,
+      "longitude": 121.61803,
+      "available_return_bikes": 0
+    }
+  }
+]

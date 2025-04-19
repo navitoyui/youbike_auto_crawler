@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500110064",
+      "sna": "YouBike2.0_敦化南京路口(東北側)",
+      "sarea": "松山區",
+      "mday": "2025-04-19 22:22:02",
+      "ar": "敦化北路/南京東路四段",
+      "sareaen": "Songshan Dist",
+      "snaen": "YouBike2.0_Dunhua Rd. & Nanjing Rd. Intersection (Northeast)",
+      "aren": "Dunhua N. Rd. & Sec. 4， Nanjing E. Rd. Intersection",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 22:22:02",
+      "infoDate": "2025-04-19",
+      "total": 25,
+      "available_rent_bikes": 2,
+      "latitude": 25.05226,
+      "longitude": 121.54926,
+      "available_return_bikes": 23
+    }
+  }
+]

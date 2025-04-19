@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500101196",
+      "sna": "YouBike2.0_市民敦化路口",
+      "sarea": "大安區",
+      "mday": "2025-04-19 22:34:02",
+      "ar": "敦化南路一段111號前",
+      "sareaen": "Daan Dist.",
+      "snaen": "YouBike2.0_Civic Blvd. & Dunhua Rd. Intersection",
+      "aren": "No. 111， Sec. 1， Dunhua S. Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 22:34:02",
+      "infoDate": "2025-04-19",
+      "total": 32,
+      "available_rent_bikes": 22,
+      "latitude": 25.04464,
+      "longitude": 121.54944,
+      "available_return_bikes": 8
+    }
+  }
+]

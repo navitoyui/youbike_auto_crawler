@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500106039",
+      "sna": "YouBike2.0_捷運小南門站(2號出口)",
+      "sarea": "中正區",
+      "mday": "2025-04-19 23:43:18",
+      "ar": "愛國西路30號之2前方",
+      "sareaen": "Zhongzheng Dist",
+      "snaen": "YouBike2.0_MRT Xiaonanmen Sta. (Exit 2)",
+      "aren": "No. 30-2， Aiguo West Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 23:43:18",
+      "infoDate": "2025-04-19",
+      "total": 24,
+      "available_rent_bikes": 0,
+      "latitude": 25.03567,
+      "longitude": 121.51006,
+      "available_return_bikes": 23
+    }
+  }
+]

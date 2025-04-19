@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500108087",
+      "sna": "YouBike2.0_東湖一號公園",
+      "sarea": "內湖區",
+      "mday": "2025-04-19 21:40:03",
+      "ar": "康寧路三段189巷163弄13號東南側",
+      "sareaen": "Neihu Dist",
+      "snaen": "YouBike2.0_Donghu No. 1 Park",
+      "aren": "No. 13， Aly. 163， Ln. 189， Sec. 3， Kangning Rd. (Southeast)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 21:40:03",
+      "infoDate": "2025-04-19",
+      "total": 19,
+      "available_rent_bikes": 14,
+      "latitude": 25.07567,
+      "longitude": 121.6118,
+      "available_return_bikes": 5
+    }
+  }
+]

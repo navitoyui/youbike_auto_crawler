@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500109003",
+      "sna": "YouBike2.0_榮華二明德路口",
+      "sarea": "北投區",
+      "mday": "2025-04-19 23:53:01",
+      "ar": "明德路212號(榮華二路側人行道)",
+      "sareaen": "Beitou Dist",
+      "snaen": "YouBike2.0_Ronghua 2nd & Mingde Rd. Intersection",
+      "aren": "No. 212， Mingde Rd. (Ronghua 2nd Rd. Side)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 23:53:01",
+      "infoDate": "2025-04-19",
+      "total": 30,
+      "available_rent_bikes": 27,
+      "latitude": 25.11357,
+      "longitude": 121.52255,
+      "available_return_bikes": 1
+    }
+  }
+]

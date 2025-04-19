@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500113018",
+      "sna": "YouBike2.0_華中疏散門",
+      "sarea": "萬華區",
+      "mday": "2025-04-20 00:31:02",
+      "ar": "環河南路三段371號前",
+      "sareaen": "Wanhua Dist",
+      "snaen": "YouBike2.0_Huazhong Evacuation Gate",
+      "aren": "No. 371， Sec. 3， Huanhe S. Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-20 00:31:02",
+      "infoDate": "2025-04-20",
+      "total": 12,
+      "available_rent_bikes": 2,
+      "latitude": 25.01688,
+      "longitude": 121.49534,
+      "available_return_bikes": 8
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500101224",
+      "sna": "YouBike2.0_羅斯福浦城街口",
+      "sarea": "大安區",
+      "mday": "2025-04-19 22:41:15",
+      "ar": "羅斯福路三段117號前",
+      "sareaen": "Daan Dist.",
+      "snaen": "YouBike2.0_Roosevelt Rd. & Pucheng St. Intersection",
+      "aren": "No. 117， Sec. 3， Roosevelt Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 22:41:15",
+      "infoDate": "2025-04-19",
+      "total": 15,
+      "available_rent_bikes": 13,
+      "latitude": 25.02208,
+      "longitude": 121.52678,
+      "available_return_bikes": 1
+    }
+  }
+]

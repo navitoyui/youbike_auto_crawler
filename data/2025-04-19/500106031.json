@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500106031",
+      "sna": "YouBike2.0_莒光和平路口",
+      "sarea": "中正區",
+      "mday": "2025-04-19 22:09:02",
+      "ar": "莒光路2號前",
+      "sareaen": "Zhongzheng Dist",
+      "snaen": "YouBike2.0_Juguang Rd & Sec. 2， Heping W. Rd Intersection",
+      "aren": "No. 2， Juguang Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 22:09:02",
+      "infoDate": "2025-04-19",
+      "total": 20,
+      "available_rent_bikes": 10,
+      "latitude": 25.03132,
+      "longitude": 121.50745,
+      "available_return_bikes": 10
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500113052",
+      "sna": "YouBike2.0_德昌街10巷口",
+      "sarea": "萬華區",
+      "mday": "2025-04-19 23:57:01",
+      "ar": "德昌街15號(對面)",
+      "sareaen": "Wanhua Dist",
+      "snaen": "YouBike2.0_Ln. 10， Dechang St.",
+      "aren": "No. 15， Dechang St. (Opposite)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 23:57:01",
+      "infoDate": "2025-04-19",
+      "total": 17,
+      "available_rent_bikes": 15,
+      "latitude": 25.02533,
+      "longitude": 121.4996,
+      "available_return_bikes": 2
+    }
+  }
+]

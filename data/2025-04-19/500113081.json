@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500113081",
+      "sna": "YouBike2.0_大理高中(西藏路)",
+      "sarea": "萬華區",
+      "mday": "2025-04-19 22:39:01",
+      "ar": "環河南路二段與西藏路口",
+      "sareaen": "Wanhua Dist",
+      "snaen": "YouBike2.0_Dali High School (XiZang Rd.)",
+      "aren": "Sec. 2， HuanHe S. Rd. & XiZang Rd. Intersection",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 22:39:01",
+      "infoDate": "2025-04-19",
+      "total": 19,
+      "available_rent_bikes": 16,
+      "latitude": 25.03062,
+      "longitude": 121.49021,
+      "available_return_bikes": 2
+    }
+  }
+]

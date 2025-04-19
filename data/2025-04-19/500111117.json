@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500111117",
+      "sna": "YouBike2.0_昆陽東新街口",
+      "sarea": "南港區",
+      "mday": "2025-04-19 19:50:02",
+      "ar": "昆陽街177-179號(旁)",
+      "sareaen": "Nangang Dist",
+      "snaen": "YouBike2.0_KunYang St. & DongXin St. Intersection",
+      "aren": "No. 177-179， KunYang St.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 19:50:02",
+      "infoDate": "2025-04-19",
+      "total": 24,
+      "available_rent_bikes": 8,
+      "latitude": 25.04857,
+      "longitude": 121.59401,
+      "available_return_bikes": 16
+    }
+  }
+]

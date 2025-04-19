@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500104096",
+      "sna": "YouBike2.0_社子市場",
+      "sarea": "士林區",
+      "mday": "2025-04-20 00:31:02",
+      "ar": "延平北路六段67號旁",
+      "sareaen": "Shilin Dist",
+      "snaen": "YouBike2.0_Shezi Market",
+      "aren": "No. 67， Sec. 6， Yanping N. Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-20 00:31:02",
+      "infoDate": "2025-04-20",
+      "total": 15,
+      "available_rent_bikes": 9,
+      "latitude": 25.0881,
+      "longitude": 121.50873,
+      "available_return_bikes": 6
+    }
+  }
+]

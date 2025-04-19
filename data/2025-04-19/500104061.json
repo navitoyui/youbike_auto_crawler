@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500104061",
+      "sna": "YouBike2.0_國立故宮博物院",
+      "sarea": "士林區",
+      "mday": "2025-04-19 22:30:02",
+      "ar": "力行街8號(對面)",
+      "sareaen": "Shilin Dist",
+      "snaen": "YouBike2.0_National Palace Museum",
+      "aren": "No. 8， Lixing St. (Opposite)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 22:30:02",
+      "infoDate": "2025-04-19",
+      "total": 17,
+      "available_rent_bikes": 5,
+      "latitude": 25.09833,
+      "longitude": 121.54788,
+      "available_return_bikes": 12
+    }
+  }
+]

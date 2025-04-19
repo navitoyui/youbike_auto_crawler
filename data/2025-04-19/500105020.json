@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500105020",
+      "sna": "YouBike2.0_捷運木柵站",
+      "sarea": "文山區",
+      "mday": "2025-04-19 23:40:03",
+      "ar": "木柵路四段82巷18號前(捷運橋樑下)",
+      "sareaen": "Wenshan Dist",
+      "snaen": "YouBike2.0_MRT Muzha Sta.",
+      "aren": "No. 18， Ln. 82， Sec. 4， Muzha Rd. (Under The MRT Bridge)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 23:40:03",
+      "infoDate": "2025-04-19",
+      "total": 31,
+      "available_rent_bikes": 24,
+      "latitude": 24.99798,
+      "longitude": 121.57455,
+      "available_return_bikes": 7
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500105019",
+      "sna": "YouBike2.0_捷運動物園站",
+      "sarea": "文山區",
+      "mday": "2025-04-20 00:14:02",
+      "ar": "新光路二段30號(對面)",
+      "sareaen": "Wenshan Dist",
+      "snaen": "YouBike2.0_MRT Taipei Zoo Sta.",
+      "aren": "No. 30， Sec. 2， Xinguang Rd. (Opposite)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-20 00:14:02",
+      "infoDate": "2025-04-20",
+      "total": 57,
+      "available_rent_bikes": 32,
+      "latitude": 24.99873,
+      "longitude": 121.57985,
+      "available_return_bikes": 24
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500107117",
+      "sna": "YouBike2.0_濱江國小游泳池",
+      "sarea": "中山區",
+      "mday": "2025-04-19 20:20:04",
+      "ar": "樂群二路266巷99號前",
+      "sareaen": "Zhongshan Dist",
+      "snaen": "YouBike2.0_Binjiang Elementary School Swimming Pool",
+      "aren": "No. 99， Ln. 266， Lequn 2nd Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 20:20:04",
+      "infoDate": "2025-04-19",
+      "total": 16,
+      "available_rent_bikes": 6,
+      "latitude": 25.07818,
+      "longitude": 121.56175,
+      "available_return_bikes": 10
+    }
+  }
+]

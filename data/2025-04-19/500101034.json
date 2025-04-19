@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500101034",
+      "sna": "YouBike2.0_臺大動物醫院前",
+      "sarea": "大安區",
+      "mday": "2025-04-19 22:28:14",
+      "ar": "基隆路三段155巷/基隆路四段口",
+      "sareaen": "Daan Dist.",
+      "snaen": "YouBike2.0_NTU Veterinary Hospital",
+      "aren": "Ln. 155， Sec. 3， Keelung Rd. Intersection",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 22:28:14",
+      "infoDate": "2025-04-19",
+      "total": 18,
+      "available_rent_bikes": 0,
+      "latitude": 25.01576,
+      "longitude": 121.54291,
+      "available_return_bikes": 18
+    }
+  }
+]

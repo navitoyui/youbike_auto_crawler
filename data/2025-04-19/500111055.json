@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500111055",
+      "sna": "YouBike2.0_育成高中",
+      "sarea": "南港區",
+      "mday": "2025-04-19 21:59:14",
+      "ar": "惠民街71號西側",
+      "sareaen": "Nangang Dist",
+      "snaen": "YouBike2.0_Yu Cheng Senior High School",
+      "aren": "No. 71， Huimin St. (West)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 21:59:14",
+      "infoDate": "2025-04-19",
+      "total": 33,
+      "available_rent_bikes": 1,
+      "latitude": 25.05853,
+      "longitude": 121.60983,
+      "available_return_bikes": 32
+    }
+  }
+]

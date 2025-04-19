@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500101232",
+      "sna": "YouBike2.0_捷運古亭站(3號出口)",
+      "sarea": "大安區",
+      "mday": "2025-04-20 00:29:03",
+      "ar": "羅斯福路二段81-1號前",
+      "sareaen": "Daan Dist.",
+      "snaen": "YouBike2.0_MRT Guting Sta. (Exit 3)",
+      "aren": "No. 81-1， Sec. 2， Roosevelt Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-20 00:29:03",
+      "infoDate": "2025-04-20",
+      "total": 15,
+      "available_rent_bikes": 6,
+      "latitude": 25.02572,
+      "longitude": 121.52359,
+      "available_return_bikes": 7
+    }
+  }
+]

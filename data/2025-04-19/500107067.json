@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500107067",
+      "sna": "YouBike2.0_市民新生路口",
+      "sarea": "中山區",
+      "mday": "2025-04-19 22:39:01",
+      "ar": "新生北路一段36號前",
+      "sareaen": "Zhongshan Dist",
+      "snaen": "YouBike2.0_Civic & Xinsheng Intersection",
+      "aren": "No. 36， Sec. 1， Xinsheng N. Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 22:39:01",
+      "infoDate": "2025-04-19",
+      "total": 15,
+      "available_rent_bikes": 8,
+      "latitude": 25.04611,
+      "longitude": 121.53193,
+      "available_return_bikes": 7
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500105049",
+      "sna": "YouBike2.0_興得閱覽室",
+      "sarea": "文山區",
+      "mday": "2025-04-19 22:39:01",
+      "ar": "興隆路三段304巷145號",
+      "sareaen": "Wenshan Dist",
+      "snaen": "YouBike2.0_Xingde Reading Room",
+      "aren": "No. 145， Ln. 304， Sec. 3， Xinglong Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 22:39:01",
+      "infoDate": "2025-04-19",
+      "total": 24,
+      "available_rent_bikes": 10,
+      "latitude": 24.99579,
+      "longitude": 121.55498,
+      "available_return_bikes": 14
+    }
+  }
+]

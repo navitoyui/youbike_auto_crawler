@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500105045",
+      "sna": "YouBike2.0_秀明路一段129巷口",
+      "sarea": "文山區",
+      "mday": "2025-04-19 16:30:04",
+      "ar": "秀明路一段129巷與秀明路一段路口",
+      "sareaen": "Wenshan Dist",
+      "snaen": "YouBike2.0_Ln. 129， Sec. 1， Xiuming Rd. Intersection",
+      "aren": "Ln. 129， Sec. 1， Xiuming Rd. & Sec. 1， Xiuming Rd. Intersection",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 16:30:04",
+      "infoDate": "2025-04-19",
+      "total": 22,
+      "available_rent_bikes": 8,
+      "latitude": 24.99111,
+      "longitude": 121.56703,
+      "available_return_bikes": 14
+    }
+  }
+]

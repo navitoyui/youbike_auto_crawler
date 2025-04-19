@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500107109",
+      "sna": "YouBike2.0_樂群二明水路口_1",
+      "sarea": "中山區",
+      "mday": "2025-04-19 23:50:04",
+      "ar": "樂群二路 / 明水路口(東側)",
+      "sareaen": "Zhongshan Dist",
+      "snaen": "YouBike2.0_Lequn 2nd Rd. & Mingshui Rd. Intersection",
+      "aren": "Lequn 2nd Rd. & Mingshui Rd. Intersection (East)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 23:50:04",
+      "infoDate": "2025-04-19",
+      "total": 34,
+      "available_rent_bikes": 6,
+      "latitude": 25.07983,
+      "longitude": 121.55236,
+      "available_return_bikes": 27
+    }
+  }
+]

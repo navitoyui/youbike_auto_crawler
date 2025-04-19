@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500101029",
+      "sna": "YouBike2.0_臺大環研大樓",
+      "sarea": "大安區",
+      "mday": "2025-04-19 18:04:15",
+      "ar": "芳蘭路/基隆路三段155巷口",
+      "sareaen": "Daan Dist.",
+      "snaen": "YouBike2.0_NTU Environment Research Building",
+      "aren": "Fanglan Rd & Ln. 155， Sec. 3， Keelung Rd. Intersection",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 18:04:15",
+      "infoDate": "2025-04-19",
+      "total": 15,
+      "available_rent_bikes": 2,
+      "latitude": 25.01234,
+      "longitude": 121.54503,
+      "available_return_bikes": 13
+    }
+  }
+]

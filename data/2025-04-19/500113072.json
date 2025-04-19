@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500113072",
+      "sna": "YouBike2.0_雙園國中地下停車場",
+      "sarea": "萬華區",
+      "mday": "2025-04-19 22:29:15",
+      "ar": "西園路二段320巷55弄8-10號前",
+      "sareaen": "Wanhua Dist",
+      "snaen": "YouBike2.0_Shuangyuan Car Park",
+      "aren": "No. 10， Aly. 55， Ln. 320， Sec. 2， Xiyuan Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 22:29:15",
+      "infoDate": "2025-04-19",
+      "total": 12,
+      "available_rent_bikes": 12,
+      "latitude": 25.02768,
+      "longitude": 121.49134,
+      "available_return_bikes": 0
+    }
+  }
+]

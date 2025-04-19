@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500104079",
+      "sna": "YouBike2.0_東山路110巷口",
+      "sarea": "士林區",
+      "mday": "2025-04-19 23:52:02",
+      "ar": "東山路114號對側",
+      "sareaen": "Shilin Dist",
+      "snaen": "YouBike2.0_Ln. 110， Dongshan Rd.",
+      "aren": "No. 114， Dongshan Rd. (Opposite)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 23:52:02",
+      "infoDate": "2025-04-19",
+      "total": 16,
+      "available_rent_bikes": 14,
+      "latitude": 25.11306,
+      "longitude": 121.53945,
+      "available_return_bikes": 2
+    }
+  }
+]

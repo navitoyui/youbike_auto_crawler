@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500107081",
+      "sna": "YouBike2.0_大佳社區公園",
+      "sarea": "中山區",
+      "mday": "2025-04-19 23:12:02",
+      "ar": "濱江街154巷對側",
+      "sareaen": "Zhongshan Dist",
+      "snaen": "YouBike2.0_Dajia Community Park",
+      "aren": "Ln. 154， Binjiang St. (Opposite)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 23:12:02",
+      "infoDate": "2025-04-19",
+      "total": 15,
+      "available_rent_bikes": 10,
+      "latitude": 25.07275,
+      "longitude": 121.5373,
+      "available_return_bikes": 4
+    }
+  }
+]

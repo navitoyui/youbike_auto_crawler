@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500107106",
+      "sna": "YouBike2.0_新生農安街口",
+      "sarea": "中山區",
+      "mday": "2025-04-20 00:28:15",
+      "ar": "新生北路三段與農安街口(高架橋下)",
+      "sareaen": "Zhongshan Dist",
+      "snaen": "YouBike2.0_Xinsheng Rd. & Nong'an St. Intersection",
+      "aren": "Sec. 3， Xinsheng N. Rd. & Nong'an St. Intersection",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-20 00:28:15",
+      "infoDate": "2025-04-20",
+      "total": 15,
+      "available_rent_bikes": 8,
+      "latitude": 25.06493,
+      "longitude": 121.52778,
+      "available_return_bikes": 6
+    }
+  }
+]

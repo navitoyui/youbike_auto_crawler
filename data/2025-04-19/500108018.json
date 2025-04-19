@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500108018",
+      "sna": "YouBike2.0_康寧星雲街口",
+      "sarea": "內湖區",
+      "mday": "2025-04-19 21:50:04",
+      "ar": "康寧路一段116號",
+      "sareaen": "Neihu Dist",
+      "snaen": "YouBike2.0_Kangning Rd & Xingyun St Intersection",
+      "aren": "No. 116， Sec. 1， Kangning Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 21:50:04",
+      "infoDate": "2025-04-19",
+      "total": 19,
+      "available_rent_bikes": 7,
+      "latitude": 25.07958,
+      "longitude": 121.59336,
+      "available_return_bikes": 12
+    }
+  }
+]

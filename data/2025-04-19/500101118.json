@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500101118",
+      "sna": "YouBike2.0_金甌女中",
+      "sarea": "大安區",
+      "mday": "2025-04-19 21:40:03",
+      "ar": "信義路二段與杭州南路二段東南側",
+      "sareaen": "Daan Dist.",
+      "snaen": "YouBike2.0_Jin'ou Girls High School",
+      "aren": "Sec. 2， Xinyi Rd. & Sec. 2， Hangzhou S. Rd. (Southeast)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 21:40:03",
+      "infoDate": "2025-04-19",
+      "total": 12,
+      "available_rent_bikes": 3,
+      "latitude": 25.03519,
+      "longitude": 121.5245,
+      "available_return_bikes": 9
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500104116",
+      "sna": "YouBike2.0_天母東路8巷/忠誠路二段154巷口",
+      "sarea": "士林區",
+      "mday": "2025-04-19 23:07:01",
+      "ar": "天母東路8巷57號對側",
+      "sareaen": "Shilin Dist",
+      "snaen": "YouBike2.0_Ln. 8， Tianmu E. Rd. & Ln. 154， Sec. 2， Zhongcheng Rd. Intersection",
+      "aren": "No. 57， Ln. 8， Tianmu E. Rd. (Opposite)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 23:07:01",
+      "infoDate": "2025-04-19",
+      "total": 14,
+      "available_rent_bikes": 8,
+      "latitude": 25.11579,
+      "longitude": 121.53113,
+      "available_return_bikes": 6
+    }
+  }
+]

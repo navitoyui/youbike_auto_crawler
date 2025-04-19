@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500108143",
+      "sna": "YouBike2.0_堤頂大道二段407巷口",
+      "sarea": "內湖區",
+      "mday": "2025-04-19 11:00:03",
+      "ar": "堤頂大道二段405號前",
+      "sareaen": "Neihu Dist",
+      "snaen": "YouBike2.0_Ln. 407， Sec. 2， Tiding Blvd.",
+      "aren": "No. 405， Sec. 2， Tiding Blvd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 11:00:03",
+      "infoDate": "2025-04-19",
+      "total": 15,
+      "available_rent_bikes": 10,
+      "latitude": 25.08019,
+      "longitude": 121.56316,
+      "available_return_bikes": 5
+    }
+  }
+]

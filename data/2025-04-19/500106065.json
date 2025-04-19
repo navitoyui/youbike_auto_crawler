@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500106065",
+      "sna": "YouBike2.0_中山徐州路口",
+      "sarea": "中正區",
+      "mday": "2025-04-20 00:18:02",
+      "ar": "中山南路/徐州路(東南側)",
+      "sareaen": "Zhongzheng Dist",
+      "snaen": "YouBike2.0_Zhongshan Rd. & Xuzhou Rd. Intersection",
+      "aren": "Zhongshan S. Rd. & Xuzhou Rd. (Southeast)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-20 00:18:02",
+      "infoDate": "2025-04-20",
+      "total": 41,
+      "available_rent_bikes": 2,
+      "latitude": 25.04178,
+      "longitude": 121.51907,
+      "available_return_bikes": 38
+    }
+  }
+]

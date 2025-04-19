@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500106101",
+      "sna": "YouBike2.0_天津北平路口",
+      "sarea": "中正區",
+      "mday": "2025-04-19 23:26:01",
+      "ar": "天津街1號對側人行道",
+      "sareaen": "Zhongzheng Dist",
+      "snaen": "YouBike2.0_Tianjin St. & Beiping Rd. Intersection",
+      "aren": "No. 1， Tianjin St. (Opposite)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 23:26:01",
+      "infoDate": "2025-04-19",
+      "total": 25,
+      "available_rent_bikes": 12,
+      "latitude": 25.04692,
+      "longitude": 121.52208,
+      "available_return_bikes": 13
+    }
+  }
+]

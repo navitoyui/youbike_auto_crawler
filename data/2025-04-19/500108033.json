@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500108033",
+      "sna": "YouBike2.0_湖光國宅",
+      "sarea": "內湖區",
+      "mday": "2025-04-19 23:18:02",
+      "ar": "文德路22巷與文德路22巷74弄口",
+      "sareaen": "Neihu Dist",
+      "snaen": "YouBike2.0_Hu Guang Public House",
+      "aren": "Ln. 22， Wende Rd & No. 1， Aly. 74， Ln. 22， Wende Rd Intersection",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 23:18:02",
+      "infoDate": "2025-04-19",
+      "total": 37,
+      "available_rent_bikes": 19,
+      "latitude": 25.07538,
+      "longitude": 121.58079,
+      "available_return_bikes": 18
+    }
+  }
+]

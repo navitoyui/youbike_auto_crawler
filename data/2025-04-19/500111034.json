@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500111034",
+      "sna": "YouBike2.0_臺北流行音樂中心(市民大道)",
+      "sarea": "南港區",
+      "mday": "2025-04-20 00:02:14",
+      "ar": "市民大道八段99號",
+      "sareaen": "Nangang Dist",
+      "snaen": "YouBike2.0_Taipei Pop Music Center (Civic Blvd)",
+      "aren": "No. 99， Sec. 8， Civic Blvd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-20 00:02:14",
+      "infoDate": "2025-04-20",
+      "total": 32,
+      "available_rent_bikes": 1,
+      "latitude": 25.05211,
+      "longitude": 121.59839,
+      "available_return_bikes": 31
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500105079",
+      "sna": "YouBike2.0_樟樹公園",
+      "sarea": "文山區",
+      "mday": "2025-04-19 22:30:02",
+      "ar": "忠順街一段26巷30弄1號對側",
+      "sareaen": "Wenshan Dist",
+      "snaen": "YouBike2.0_Jhang Shu Park",
+      "aren": "No. 1， Aly. 30， Ln. 26， Sec. 1， Zhongshun St. (Opposite)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 22:30:02",
+      "infoDate": "2025-04-19",
+      "total": 15,
+      "available_rent_bikes": 11,
+      "latitude": 24.9825,
+      "longitude": 121.55949,
+      "available_return_bikes": 4
+    }
+  }
+]

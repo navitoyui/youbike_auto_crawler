@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500108093",
+      "sna": "YouBike2.0_新湖二路250巷口",
+      "sarea": "內湖區",
+      "mday": "2025-04-19 19:50:02",
+      "ar": "新湖二路/新湖二路250巷(西南側)",
+      "sareaen": "Neihu Dist",
+      "snaen": "YouBike2.0_Ln. 250， Xinhu 2nd Rd.",
+      "aren": "Xinhu 2nd Rd. & Ln. 250， Xinhu 2nd Rd. Intersection (Southwest)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 19:50:02",
+      "infoDate": "2025-04-19",
+      "total": 20,
+      "available_rent_bikes": 17,
+      "latitude": 25.06455,
+      "longitude": 121.58262,
+      "available_return_bikes": 3
+    }
+  }
+]

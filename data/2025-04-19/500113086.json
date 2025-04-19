@@ -1,0 +1,25 @@
+[
+  {
+    "time": "163212",
+    "data": {
+      "sno": "500113086",
+      "sna": "YouBike2.0_德昌街125巷口",
+      "sarea": "萬華區",
+      "mday": "2025-04-19 22:49:01",
+      "ar": "德昌街142號對側",
+      "sareaen": "Wanhua Dist",
+      "snaen": "YouBike2.0_Ln. 125， DeChang St.",
+      "aren": "No. 142， DeChang St.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:31:20",
+      "updateTime": "2025-04-20 00:31:26",
+      "infoTime": "2025-04-19 22:49:01",
+      "infoDate": "2025-04-19",
+      "total": 19,
+      "available_rent_bikes": 15,
+      "latitude": 25.02406,
+      "longitude": 121.49639,
+      "available_return_bikes": 4
+    }
+  }
+]
