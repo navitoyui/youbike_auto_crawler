@@ -6,7 +6,7 @@ on:
   workflow_dispatch:        # 允許手動觸發
 
 permissions:
-  contents: write  # 允許寫入 Repo（commit + push）
+  contents: write
 
 jobs:
   run-crawler:
@@ -16,13 +16,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          persist-credentials: false  # 我們會手動設帳號
+          persist-credentials: false
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
-          
+
       - name: Install dependencies
         run: |
           pip install requests pandas openpyxl
@@ -30,10 +30,13 @@ jobs:
       - name: Run crawler script
         run: python main.py
 
+      - name: Show data directory content (for debug)
+        run: ls -la data
+
       - name: Commit and push data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/
-          git commit -m " 自動更新資料 $(date '+%Y-%m-%d %H:%M:%S')" || echo "沒有變更需要提交"
+          git commit -m "自動更新資料 $(date '+%Y-%m-%d %H:%M:%S')" || echo "沒有變更需要提交"
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
