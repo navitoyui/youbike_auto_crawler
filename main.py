@@ -17,10 +17,8 @@ def fetch_youbike_data_once():
     response = requests.get(url)
     data = response.json()
 
-    # 確保資料夾存在
     os.makedirs(DATA_DIR, exist_ok=True)
 
-    # 如果是第一次，就建立 sno_data.csv
     if not os.path.exists(SNO_DATA_FILE):
         static_fields = ["sno", "sna", "sarea", "total", "ar", "latitude", "longitude", "snaen", "sareaen", "aren"]
         static_data = [{k: item[k] for k in static_fields} for item in data]
@@ -28,41 +26,43 @@ def fetch_youbike_data_once():
         df_static.to_csv(SNO_DATA_FILE, index=False, encoding="utf-8-sig")
         print(f"已建立場站靜態資料檔案：{SNO_DATA_FILE}")
 
-    # 需要的欄位（動態欄位）
     dynamic_fields = ["sno", "available_rent_bikes", "available_return_bikes", "act", "infoTime", "infoDate"]
-
     now = datetime.now()
     timestamp = now.strftime("%H:%M:%S")
-
-    # 建立 today.xlsx 檔案
     today_file = get_today_filename()
 
-    # 嘗試讀入今天的 Excel 檔案
-    if os.path.exists(today_file):
-        writer = pd.ExcelWriter(today_file, engine='openpyxl', mode='a', if_sheet_exists='overlay')
-    else:
-        writer = pd.ExcelWriter(today_file, engine='openpyxl')
+    print(f"開始寫入資料至 {today_file}...")
 
-    # 為每個站點新增一筆資料（寫入對應工作表）
+    from openpyxl import load_workbook
+    from openpyxl.utils.exceptions import InvalidFileException
+
+    try:
+        writer = pd.ExcelWriter(today_file, engine='openpyxl', mode='a' if os.path.exists(today_file) else 'w', if_sheet_exists='overlay')
+    except InvalidFileException as e:
+        print(f"無法開啟 Excel 檔案：{e}")
+        return
+
     for station in data:
-        row = {k: station[k] for k in dynamic_fields}
-        row["time"] = timestamp  # 新增欄位：紀錄時間
-        df = pd.DataFrame([row])[["time", "available_rent_bikes", "available_return_bikes", "act", "infoTime", "infoDate"]]
-
-        sheet_name = row["sno"]
-
-        # 讀取現有工作表內容（如果有）
         try:
-            existing = pd.read_excel(today_file, sheet_name=sheet_name, engine='openpyxl')
-            df = pd.concat([existing, df], ignore_index=True)
-        except:
-            pass  # 如果沒有工作表就直接寫入
+            row = {k: station[k] for k in dynamic_fields}
+            row["time"] = timestamp
+            df = pd.DataFrame([row])[["time", "available_rent_bikes", "available_return_bikes", "act", "infoTime", "infoDate"]]
+            sheet_name = row["sno"]
 
-        # 寫入該工作表
-        df.to_excel(writer, sheet_name=sheet_name, index=False)
+            try:
+                existing = pd.read_excel(today_file, sheet_name=sheet_name, engine='openpyxl')
+                df = pd.concat([existing, df], ignore_index=True)
+            except Exception as e:
+                print(f"新建工作表 {sheet_name}：{e}")
+
+            df.to_excel(writer, sheet_name=sheet_name, index=False)
+        except Exception as e:
+            print(f"處理站點 {station.get('sno', '未知')} 發生錯誤：{e}")
 
     writer.close()
-    print(f"{now.strftime('%Y-%m-%d %H:%M:%S')} 資料已寫入 {today_file}")
+
+    print(f"{now.strftime('%Y-%m-%d %H:%M:%S')} 資料已成功寫入 {today_file}")
+    print("目前資料夾內容：", os.listdir(DATA_DIR))
 
 if __name__ == "__main__":
     fetch_youbike_data_once()
