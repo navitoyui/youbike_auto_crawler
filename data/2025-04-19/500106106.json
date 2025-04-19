@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500106106",
+      "sna": "YouBike2.0_林森濟南路口(東北側)",
+      "sarea": "中正區",
+      "mday": "2025-04-19 22:39:01",
+      "ar": "林森南路/濟南路一段口(東北側)",
+      "sareaen": "Zhongzheng Dist",
+      "snaen": "YouBike2.0_Linsen Rd. & Jinan Rd. Intersection (Northeast)",
+      "aren": "Linsen S. Rd. & Sec. 1， Jinan Rd. Intersection (Northeast)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:39:01",
+      "infoDate": "2025-04-19",
+      "total": 26,
+      "available_rent_bikes": 7,
+      "latitude": 25.0425,
+      "longitude": 121.5227,
+      "available_return_bikes": 18
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500106014",
+      "sna": "YouBike2.0_牯嶺公園",
+      "sarea": "中正區",
+      "mday": "2025-04-19 23:18:02",
+      "ar": "廈門街113巷/牯嶺街口(西側)",
+      "sareaen": "Zhongzheng Dist",
+      "snaen": "YouBike2.0_Guling Park",
+      "aren": "Ln. 113， Xiamen St & Guling St. Intersection (West)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 23:18:02",
+      "infoDate": "2025-04-19",
+      "total": 58,
+      "available_rent_bikes": 44,
+      "latitude": 25.02338,
+      "longitude": 121.51889,
+      "available_return_bikes": 8
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500108122",
+      "sna": "YouBike2.0_陽光舊宗路口",
+      "sarea": "內湖區",
+      "mday": "2025-04-19 09:11:01",
+      "ar": "陽光街/舊宗路二段",
+      "sareaen": "Neihu Dist",
+      "snaen": "YouBike2.0_Yangguang St. & Jiuzong Rd. Intersection",
+      "aren": "Yangguang St. & Sec. 2， Jiuzong Rd. Intersection",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 09:11:01",
+      "infoDate": "2025-04-19",
+      "total": 20,
+      "available_rent_bikes": 7,
+      "latitude": 25.07243,
+      "longitude": 121.57416,
+      "available_return_bikes": 13
+    }
+  }
+]

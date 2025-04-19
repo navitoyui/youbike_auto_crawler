@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500106126",
+      "sna": "YouBike2.0_捷運善導寺站(5號出口)",
+      "sarea": "中正區",
+      "mday": "2025-04-19 22:30:02",
+      "ar": "忠孝東路一段138號",
+      "sareaen": "Zhongzheng Dist",
+      "snaen": "YouBike2.0_MRT Shandao Temple Sta. (Exit 5)",
+      "aren": "No. 138， Sec. 1， ZhongXiao E. Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:30:02",
+      "infoDate": "2025-04-19",
+      "total": 31,
+      "available_rent_bikes": 4,
+      "latitude": 25.04418,
+      "longitude": 121.52552,
+      "available_return_bikes": 27
+    }
+  }
+]

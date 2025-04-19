@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500106127",
+      "sna": "YouBike2.0_青島杭州路口",
+      "sarea": "中正區",
+      "mday": "2025-04-19 22:34:02",
+      "ar": "青島東路/杭州南路一段",
+      "sareaen": "Zhongzheng Dist",
+      "snaen": "YouBike2.0_QingDao E. Rd. & HangZhou S. Rd. Intersection",
+      "aren": "QingDao E. Rd. & Sec. 1， HangZhou S. Rd. Intersection",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:34:02",
+      "infoDate": "2025-04-19",
+      "total": 17,
+      "available_rent_bikes": 4,
+      "latitude": 25.04281,
+      "longitude": 121.52629,
+      "available_return_bikes": 13
+    }
+  }
+]

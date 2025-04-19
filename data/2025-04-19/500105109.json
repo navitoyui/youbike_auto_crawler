@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500105109",
+      "sna": "YouBike2.0_景文街142巷口",
+      "sarea": "文山區",
+      "mday": "2025-04-19 23:00:03",
+      "ar": "景文街與景文街142巷口(景美橋旁)",
+      "sareaen": "Wenshan Dist",
+      "snaen": "YouBike2.0_Ln. 142， JingWen St.",
+      "aren": "JingWen St. & Ln. 142， JingWen St. Intersection (Jingmei Bridge)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 23:00:03",
+      "infoDate": "2025-04-19",
+      "total": 16,
+      "available_rent_bikes": 12,
+      "latitude": 24.98826,
+      "longitude": 121.54065,
+      "available_return_bikes": 4
+    }
+  }
+]

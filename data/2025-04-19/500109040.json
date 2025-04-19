@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500109040",
+      "sna": "YouBike2.0_振興公園",
+      "sarea": "北投區",
+      "mday": "2025-04-19 22:04:15",
+      "ar": "天母西路109號(對面)",
+      "sareaen": "Beitou Dist",
+      "snaen": "YouBike2.0_Zhenxing Park",
+      "aren": "No. 109， Tianmu W. Rd. (Opposite)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:04:15",
+      "infoDate": "2025-04-19",
+      "total": 25,
+      "available_rent_bikes": 1,
+      "latitude": 25.11865,
+      "longitude": 121.5235,
+      "available_return_bikes": 24
+    }
+  }
+]

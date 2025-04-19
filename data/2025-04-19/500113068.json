@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500113068",
+      "sna": "YouBike2.0_捷運龍山寺站(1號出口)_1",
+      "sarea": "萬華區",
+      "mday": "2025-04-19 23:58:14",
+      "ar": "和平西路三段/和平西路三段109巷(西北側)",
+      "sareaen": "Wanhua Dist",
+      "snaen": "YouBike2.0_MRT Longshan Temple Sta. (Exit 1)_1",
+      "aren": "Sec. 3， Heping W. Rd. & Ln. 109， Sec. 3， Heping W. Rd. Intersection (Northwest)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 23:58:14",
+      "infoDate": "2025-04-19",
+      "total": 64,
+      "available_rent_bikes": 0,
+      "latitude": 25.03548,
+      "longitude": 121.50026,
+      "available_return_bikes": 64
+    }
+  }
+]

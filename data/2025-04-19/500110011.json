@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500110011",
+      "sna": "YouBike2.0_民權復興路口",
+      "sarea": "松山區",
+      "mday": "2025-04-19 22:30:02",
+      "ar": "民權東路三段119號(前)",
+      "sareaen": "Songshan Dist",
+      "snaen": "YouBike2.0_Minquan Rd. & Fuxing Rd. Intersection",
+      "aren": "No. 119， Sec. 3， Minquan E. Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:30:02",
+      "infoDate": "2025-04-19",
+      "total": 36,
+      "available_rent_bikes": 14,
+      "latitude": 25.0622,
+      "longitude": 121.54565,
+      "available_return_bikes": 22
+    }
+  }
+]

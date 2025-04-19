@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500105060",
+      "sna": "YouBike2.0_實踐國中(木新路三段310巷口)",
+      "sarea": "文山區",
+      "mday": "2025-04-19 19:40:04",
+      "ar": "忠順街一段木新路三段310巷口",
+      "sareaen": "Wenshan Dist",
+      "snaen": "YouBike2.0_Shijian Junior High School (Ln. 310， Sec. 3， Muxin Rd.)",
+      "aren": "Sec. 1， Zhongshun St. & Ln. 310， Sec. 3， Muxin Rd. Intersection",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 19:40:04",
+      "infoDate": "2025-04-19",
+      "total": 17,
+      "available_rent_bikes": 5,
+      "latitude": 24.98339,
+      "longitude": 121.55645,
+      "available_return_bikes": 12
+    }
+  }
+]

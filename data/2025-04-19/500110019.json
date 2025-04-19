@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500110019",
+      "sna": "YouBike2.0_臺北市藝文推廣處",
+      "sarea": "松山區",
+      "mday": "2025-04-19 22:30:02",
+      "ar": "八德路三段25號(前)",
+      "sareaen": "Songshan Dist",
+      "snaen": "YouBike2.0_Taipei City Arts Promotion Office",
+      "aren": "No. 25， Sec. 3， Bade Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:30:02",
+      "infoDate": "2025-04-19",
+      "total": 45,
+      "available_rent_bikes": 15,
+      "latitude": 25.04826,
+      "longitude": 121.55235,
+      "available_return_bikes": 28
+    }
+  }
+]

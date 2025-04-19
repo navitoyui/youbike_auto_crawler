@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500113053",
+      "sna": "YouBike2.0_環河南和平西路口",
+      "sarea": "萬華區",
+      "mday": "2025-04-20 00:14:02",
+      "ar": "環河南路一段/和平西路三段口(西南側)",
+      "sareaen": "Wanhua Dist",
+      "snaen": "YouBike2.0_Huanhe S. Rd. & Heping W. Rd. Intersection",
+      "aren": "Sec. 1， Huanhe S. Rd. & Sec. 3， Heping W. Rd. Intersection (Southwest)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-20 00:14:02",
+      "infoDate": "2025-04-20",
+      "total": 20,
+      "available_rent_bikes": 15,
+      "latitude": 25.03517,
+      "longitude": 121.49048,
+      "available_return_bikes": 3
+    }
+  }
+]

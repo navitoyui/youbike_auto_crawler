@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500108083",
+      "sna": "YouBike2.0_瑞光港墘路口",
+      "sarea": "內湖區",
+      "mday": "2025-04-19 19:40:04",
+      "ar": "港墘路185號前",
+      "sareaen": "Neihu Dist",
+      "snaen": "YouBike2.0_Rueiguang Rd. & Gangcian Rd. Intersection",
+      "aren": "No. 185， Gangcian Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 19:40:04",
+      "infoDate": "2025-04-19",
+      "total": 30,
+      "available_rent_bikes": 16,
+      "latitude": 25.07611,
+      "longitude": 121.57487,
+      "available_return_bikes": 14
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500107118",
+      "sna": "YouBike2.0_林森公園",
+      "sarea": "中山區",
+      "mday": "2025-04-19 23:20:03",
+      "ar": "林森北路/南京東路一段",
+      "sareaen": "Zhongshan Dist",
+      "snaen": "YouBike2.0_Linsen Park",
+      "aren": "Linsen N. Rd. ＆ Sec. 1， Nanjing E. Rd. Intersection",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 23:20:03",
+      "infoDate": "2025-04-19",
+      "total": 42,
+      "available_rent_bikes": 22,
+      "latitude": 25.05223,
+      "longitude": 121.52581,
+      "available_return_bikes": 19
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500113042",
+      "sna": "YouBike2.0_華西公園",
+      "sarea": "萬華區",
+      "mday": "2025-04-20 00:14:02",
+      "ar": "桂林路134號(對面)",
+      "sareaen": "Wanhua Dist",
+      "snaen": "YouBike2.0_Huaxi Park",
+      "aren": "No. 134， Guilin Rd. (Opposite)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-20 00:14:02",
+      "infoDate": "2025-04-20",
+      "total": 51,
+      "available_rent_bikes": 39,
+      "latitude": 25.03852,
+      "longitude": 121.49881,
+      "available_return_bikes": 2
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500101202",
+      "sna": "YouBike2.0_仁愛敦南圓環(東南側)",
+      "sarea": "大安區",
+      "mday": "2025-04-19 22:40:04",
+      "ar": "仁愛路四段110號前",
+      "sareaen": "Daan Dist.",
+      "snaen": "YouBike2.0_Renai Dunnan Traffic Cir (Southeast)",
+      "aren": "No. 110， Sec. 4， Ren'ai Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:40:04",
+      "infoDate": "2025-04-19",
+      "total": 16,
+      "available_rent_bikes": 5,
+      "latitude": 25.03715,
+      "longitude": 121.54936,
+      "available_return_bikes": 11
+    }
+  }
+]

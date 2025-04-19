@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500111023",
+      "sna": "YouBike2.0_東陽公園",
+      "sarea": "南港區",
+      "mday": "2025-04-19 22:37:02",
+      "ar": "重陽路125巷34號東側",
+      "sareaen": "Nangang Dist",
+      "snaen": "YouBike2.0_Dongyang Park",
+      "aren": "No. 34， Ln. 125， Chongyang Rd. (East)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:37:02",
+      "infoDate": "2025-04-19",
+      "total": 48,
+      "available_rent_bikes": 47,
+      "latitude": 25.05716,
+      "longitude": 121.59792,
+      "available_return_bikes": 1
+    }
+  }
+]

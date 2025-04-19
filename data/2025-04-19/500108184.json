@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500108184",
+      "sna": "YouBike2.0_康寧路三段70巷153號",
+      "sarea": "內湖區",
+      "mday": "2025-04-19 16:58:15",
+      "ar": "康寧路三段70巷153號對側",
+      "sareaen": "Neihu Dist",
+      "snaen": "YouBike2.0_No. 153， Ln. 70， Sec. 3， KangNing Rd.",
+      "aren": "No. 153， Ln. 70， Sec. 3， KangNing Rd. (Opposite)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 16:58:15",
+      "infoDate": "2025-04-19",
+      "total": 20,
+      "available_rent_bikes": 1,
+      "latitude": 25.06658,
+      "longitude": 121.60803,
+      "available_return_bikes": 18
+    }
+  }
+]

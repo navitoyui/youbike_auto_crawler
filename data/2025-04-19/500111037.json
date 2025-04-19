@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500111037",
+      "sna": "YouBike2.0_南港軟體園區(新民街)",
+      "sarea": "南港區",
+      "mday": "2025-04-19 18:40:03",
+      "ar": "新民街15號北側",
+      "sareaen": "Nangang Dist",
+      "snaen": "YouBike2.0_NKSP (Xinmin St)",
+      "aren": "No. 15， Xinmin St. (North)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 18:40:03",
+      "infoDate": "2025-04-19",
+      "total": 25,
+      "available_rent_bikes": 4,
+      "latitude": 25.05627,
+      "longitude": 121.61369,
+      "available_return_bikes": 21
+    }
+  }
+]

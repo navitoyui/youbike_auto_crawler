@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500108064",
+      "sna": "YouBike2.0_捷運內湖站(2號出口)",
+      "sarea": "內湖區",
+      "mday": "2025-04-19 22:33:15",
+      "ar": "成功路四段167巷6弄2號(旁)",
+      "sareaen": "Neihu Dist",
+      "snaen": "YouBike2.0_MRT Neihu Sta. (Exit 2)",
+      "aren": "No. 2， Aly. 6， Ln. 167， Sec. 4， Chenggong Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:33:15",
+      "infoDate": "2025-04-19",
+      "total": 10,
+      "available_rent_bikes": 0,
+      "latitude": 25.0835,
+      "longitude": 121.59454,
+      "available_return_bikes": 10
+    }
+  }
+]

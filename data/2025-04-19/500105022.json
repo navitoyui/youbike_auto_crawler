@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500105022",
+      "sna": "YouBike2.0_文山運動中心",
+      "sarea": "文山區",
+      "mday": "2025-04-19 22:11:01",
+      "ar": "興隆路三段/興隆路三段192巷8弄",
+      "sareaen": "Wenshan Dist",
+      "snaen": "YouBike2.0_Wen Shan Sports Center",
+      "aren": "Sec. 3， Xinglong Rd./Aly. 8， Ln. 192， Sec. 3， Xinglong Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:11:01",
+      "infoDate": "2025-04-19",
+      "total": 36,
+      "available_rent_bikes": 13,
+      "latitude": 24.99676,
+      "longitude": 121.5596,
+      "available_return_bikes": 22
+    }
+  }
+]

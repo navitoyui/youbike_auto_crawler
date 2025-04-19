@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500113015",
+      "sna": "YouBike2.0_莒光立體停車場",
+      "sarea": "萬華區",
+      "mday": "2025-04-19 23:41:14",
+      "ar": "莒光路137號前",
+      "sareaen": "Wanhua Dist",
+      "snaen": "YouBike2.0_Juguang Car Park",
+      "aren": "No. 137， Juguang Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 23:41:14",
+      "infoDate": "2025-04-19",
+      "total": 10,
+      "available_rent_bikes": 10,
+      "latitude": 25.03116,
+      "longitude": 121.50336,
+      "available_return_bikes": 0
+    }
+  }
+]

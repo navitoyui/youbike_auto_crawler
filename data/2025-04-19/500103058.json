@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500103058",
+      "sna": "YouBike2.0_樹德公園_1",
+      "sarea": "大同區",
+      "mday": "2025-04-19 22:22:02",
+      "ar": "大龍街/大龍街85巷(東北側)",
+      "sareaen": "Datong Dist",
+      "snaen": "YouBike2.0_Shude Park",
+      "aren": "Dalong St. & Ln. 85， Dalong St. Intersection (Northeast)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:22:02",
+      "infoDate": "2025-04-19",
+      "total": 40,
+      "available_rent_bikes": 27,
+      "latitude": 25.06669,
+      "longitude": 121.51615,
+      "available_return_bikes": 13
+    }
+  }
+]

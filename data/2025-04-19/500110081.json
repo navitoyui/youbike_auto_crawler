@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500110081",
+      "sna": "YouBike2.0_延壽街119巷口",
+      "sarea": "松山區",
+      "mday": "2025-04-19 23:01:16",
+      "ar": "延壽街119巷/延壽街",
+      "sareaen": "Songshan Dist",
+      "snaen": "YouBike2.0_Ln. 119， Yanshou St.",
+      "aren": "Ln. 119， Yanshou St. & Yanshou St.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 23:01:16",
+      "infoDate": "2025-04-19",
+      "total": 15,
+      "available_rent_bikes": 6,
+      "latitude": 25.05708,
+      "longitude": 121.56486,
+      "available_return_bikes": 7
+    }
+  }
+]

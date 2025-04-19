@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500101035",
+      "sna": "YouBike2.0_臺大土木研究大樓前",
+      "sarea": "大安區",
+      "mday": "2025-04-19 22:38:02",
+      "ar": "辛亥路三段188號",
+      "sareaen": "Daan Dist.",
+      "snaen": "YouBike2.0_NTU Civil Engineering Research Building",
+      "aren": "No. 188， Sec. 3， Xinhai Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:38:02",
+      "infoDate": "2025-04-19",
+      "total": 24,
+      "available_rent_bikes": 6,
+      "latitude": 25.01787,
+      "longitude": 121.5476,
+      "available_return_bikes": 18
+    }
+  }
+]

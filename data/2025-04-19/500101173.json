@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500101173",
+      "sna": "YouBike2.0_敦化南路二段103巷口",
+      "sarea": "大安區",
+      "mday": "2025-04-19 22:40:04",
+      "ar": "敦化南路二段99號前",
+      "sareaen": "Daan Dist.",
+      "snaen": "YouBike2.0_Ln. 103，Sec. 2，Dunhua S. Rd.",
+      "aren": "No. 99， Sec. 2， Dunhua S. Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:40:04",
+      "infoDate": "2025-04-19",
+      "total": 24,
+      "available_rent_bikes": 4,
+      "latitude": 25.0287,
+      "longitude": 121.54904,
+      "available_return_bikes": 20
+    }
+  }
+]

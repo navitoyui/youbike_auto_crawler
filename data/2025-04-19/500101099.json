@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500101099",
+      "sna": "YouBike2.0_嘉興公園",
+      "sarea": "大安區",
+      "mday": "2025-04-19 22:43:01",
+      "ar": "樂業街101巷3號西北側",
+      "sareaen": "Daan Dist.",
+      "snaen": "YouBike2.0_Jiaxing Park",
+      "aren": "No. 3， Ln. 101， Leye St. (Northwest)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:43:01",
+      "infoDate": "2025-04-19",
+      "total": 44,
+      "available_rent_bikes": 40,
+      "latitude": 25.021,
+      "longitude": 121.55211,
+      "available_return_bikes": 4
+    }
+  }
+]

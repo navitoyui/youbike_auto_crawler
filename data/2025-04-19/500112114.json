@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500112114",
+      "sna": "YouBike2.0_仁愛路四段512巷",
+      "sarea": "信義區",
+      "mday": "2025-04-19 23:48:02",
+      "ar": "仁愛路四段512巷6號對側",
+      "sareaen": "Xinyi Dist",
+      "snaen": "YouBike2.0_Ln. 512， Sec. 4， RenAi Rd.",
+      "aren": "No. 6， Ln. 512， Sec. 4， RenAi Rd. (Opposite)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 23:48:02",
+      "infoDate": "2025-04-19",
+      "total": 16,
+      "available_rent_bikes": 4,
+      "latitude": 25.03706,
+      "longitude": 121.56124,
+      "available_return_bikes": 11
+    }
+  }
+]

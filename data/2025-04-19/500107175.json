@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500107175",
+      "sna": "YouBike2.0_中山北德惠街口",
+      "sarea": "中山區",
+      "mday": "2025-04-19 22:30:02",
+      "ar": "中山北路三段47號",
+      "sareaen": "Zhongshan Dist",
+      "snaen": "YouBike2.0_ZhongShan N. Rd. & DeHui St Intersection",
+      "aren": "No. 47， Sec. 3， ZhongShan N. Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:30:02",
+      "infoDate": "2025-04-19",
+      "total": 20,
+      "available_rent_bikes": 11,
+      "latitude": 25.06671,
+      "longitude": 121.52257,
+      "available_return_bikes": 9
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500109043",
+      "sna": "YouBike2.0_致遠一路二段11巷",
+      "sarea": "北投區",
+      "mday": "2025-04-19 19:54:15",
+      "ar": "自強街61巷8號(旁)",
+      "sareaen": "Beitou Dist",
+      "snaen": "YouBike2.0_Ln. 11， Sec. 2， Zhiyuan 1st Rd.",
+      "aren": "No. 8， Ln. 61， Ziqiang St.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 19:54:15",
+      "infoDate": "2025-04-19",
+      "total": 22,
+      "available_rent_bikes": 5,
+      "latitude": 25.11093,
+      "longitude": 121.51382,
+      "available_return_bikes": 17
+    }
+  }
+]

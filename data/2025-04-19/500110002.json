@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500110002",
+      "sna": "YouBike2.0_捷運松山站(4號出口)",
+      "sarea": "松山區",
+      "mday": "2025-04-19 23:52:14",
+      "ar": "八德路四段742號",
+      "sareaen": "Songshan Dist",
+      "snaen": "YouBike2.0_MRT Songshan Sta. (Exit 4)",
+      "aren": "No. 742， Sec. 4， Bade Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 23:52:14",
+      "infoDate": "2025-04-19",
+      "total": 19,
+      "available_rent_bikes": 0,
+      "latitude": 25.04987,
+      "longitude": 121.57785,
+      "available_return_bikes": 18
+    }
+  }
+]

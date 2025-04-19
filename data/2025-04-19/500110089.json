@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500110089",
+      "sna": "YouBike2.0_新東延壽街口",
+      "sarea": "松山區",
+      "mday": "2025-04-19 22:40:04",
+      "ar": "新東街1巷2號前",
+      "sareaen": "Songshan Dist",
+      "snaen": "YouBike2.0_XinDong St. & YanShou St. Intersection",
+      "aren": "No. 2， Ln. 1， XinDong St.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:40:04",
+      "infoDate": "2025-04-19",
+      "total": 24,
+      "available_rent_bikes": 6,
+      "latitude": 25.05725,
+      "longitude": 121.56608,
+      "available_return_bikes": 18
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500104004",
+      "sna": "YouBike2.0_百齡國小",
+      "sarea": "士林區",
+      "mday": "2025-04-19 22:34:02",
+      "ar": "前港街104號(對面)",
+      "sareaen": "Shilin Dist",
+      "snaen": "YouBike2.0_Bailing Elementary School",
+      "aren": "No. 104， Qiangang St. (Opposite)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:34:02",
+      "infoDate": "2025-04-19",
+      "total": 50,
+      "available_rent_bikes": 35,
+      "latitude": 25.08521,
+      "longitude": 121.51918,
+      "available_return_bikes": 14
+    }
+  }
+]

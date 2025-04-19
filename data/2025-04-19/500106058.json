@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500106058",
+      "sna": "YouBike2.0_聯合醫院和平院區",
+      "sarea": "中正區",
+      "mday": "2025-04-19 22:35:15",
+      "ar": "中華路二段33號旁",
+      "sareaen": "Zhongzheng Dist",
+      "snaen": "YouBike2.0_Taipei City Hospital Heping Branch",
+      "aren": "No. 33， Sec. 2， Zhonghua Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:35:15",
+      "infoDate": "2025-04-19",
+      "total": 32,
+      "available_rent_bikes": 1,
+      "latitude": 25.03516,
+      "longitude": 121.50641,
+      "available_return_bikes": 31
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500106077",
+      "sna": "YouBike2.0_林森徐州路口",
+      "sarea": "中正區",
+      "mday": "2025-04-20 00:14:02",
+      "ar": "林森南路/徐州路口(西南側)",
+      "sareaen": "Zhongzheng Dist",
+      "snaen": "YouBike2.0_Linsen Rd. & Xuzhou Rd. Intersection",
+      "aren": "Linsen S. Rd. & Xuzhou Rd. Intersection (Northwest)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-20 00:14:02",
+      "infoDate": "2025-04-20",
+      "total": 32,
+      "available_rent_bikes": 17,
+      "latitude": 25.04094,
+      "longitude": 121.52215,
+      "available_return_bikes": 15
+    }
+  }
+]

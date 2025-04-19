@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500107020",
+      "sna": "YouBike2.0_新生長春路口",
+      "sarea": "中山區",
+      "mday": "2025-04-19 23:52:02",
+      "ar": "新生北路二段/新生北路二段68巷交叉口(新生橋下)",
+      "sareaen": "Zhongshan Dist",
+      "snaen": "YouBike2.0_Xinsheng Rd. & Changchun Rd. Intersection",
+      "aren": "Sec. 2， Xinsheng N. Rd. & Ln. 68 Intersection (Under Bridge)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 23:52:02",
+      "infoDate": "2025-04-19",
+      "total": 32,
+      "available_rent_bikes": 18,
+      "latitude": 25.05639,
+      "longitude": 121.52752,
+      "available_return_bikes": 14
+    }
+  }
+]

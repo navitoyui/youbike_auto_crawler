@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500107113",
+      "sna": "YouBike2.0_建國長春路口(北側)",
+      "sarea": "中山區",
+      "mday": "2025-04-19 16:48:15",
+      "ar": "建國北路/長春路口(北側)",
+      "sareaen": "Zhongshan Dist",
+      "snaen": "YouBike2.0_Jianguo Rd. & Changchun Rd. Intersection",
+      "aren": "Jianguo N. Rd. & Changchun Rd. Intersection (North)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 16:48:15",
+      "infoDate": "2025-04-19",
+      "total": 30,
+      "available_rent_bikes": 1,
+      "latitude": 25.05476,
+      "longitude": 121.53693,
+      "available_return_bikes": 29
+    }
+  }
+]

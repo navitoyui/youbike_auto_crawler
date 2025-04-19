@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500113016",
+      "sna": "YouBike2.0_艋舺大道146巷口",
+      "sarea": "萬華區",
+      "mday": "2025-04-19 22:54:01",
+      "ar": "艋舺大道142號前",
+      "sareaen": "Wanhua Dist",
+      "snaen": "YouBike2.0_Ln. 146， Bangka Blvd Intersection",
+      "aren": "No. 142， Bangka Blvd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:54:01",
+      "infoDate": "2025-04-19",
+      "total": 14,
+      "available_rent_bikes": 10,
+      "latitude": 25.03301,
+      "longitude": 121.5016,
+      "available_return_bikes": 4
+    }
+  }
+]

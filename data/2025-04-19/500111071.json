@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500111071",
+      "sna": "YouBike2.0_玉東公園(東新街)",
+      "sarea": "南港區",
+      "mday": "2025-04-19 21:53:02",
+      "ar": "東新街/市民大道七段(北側)",
+      "sareaen": "Nangang Dist",
+      "snaen": "YouBike2.0_Yudong Park (Dongxin St.)",
+      "aren": "Dongxin St. & Sec. 7， Civic Blvd. Intersection (North)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 21:53:02",
+      "infoDate": "2025-04-19",
+      "total": 25,
+      "available_rent_bikes": 11,
+      "latitude": 25.04998,
+      "longitude": 121.58383,
+      "available_return_bikes": 14
+    }
+  }
+]

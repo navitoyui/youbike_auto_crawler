@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500103030",
+      "sna": "YouBike2.0_永樂市場",
+      "sarea": "大同區",
+      "mday": "2025-04-19 23:58:02",
+      "ar": "南京西路233巷103號旁",
+      "sareaen": "Datong Dist",
+      "snaen": "YouBike2.0_Yongle Market",
+      "aren": "No. 103， Ln. 233， Nanjing W. Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 23:58:02",
+      "infoDate": "2025-04-19",
+      "total": 38,
+      "available_rent_bikes": 18,
+      "latitude": 25.05454,
+      "longitude": 121.51052,
+      "available_return_bikes": 17
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500109042",
+      "sna": "YouBike2.0_承德路七段280巷口",
+      "sarea": "北投區",
+      "mday": "2025-04-19 21:40:03",
+      "ar": "承德路七段260號(前)",
+      "sareaen": "Beitou Dist",
+      "snaen": "YouBike2.0_No. 280， Sec. 7， Chengde Rd. Intersection",
+      "aren": "No. 260， Sec. 7， Chengde Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 21:40:03",
+      "infoDate": "2025-04-19",
+      "total": 17,
+      "available_rent_bikes": 5,
+      "latitude": 25.11587,
+      "longitude": 121.50576,
+      "available_return_bikes": 10
+    }
+  }
+]

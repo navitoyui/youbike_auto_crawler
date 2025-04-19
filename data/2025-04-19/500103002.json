@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500103002",
+      "sna": "YouBike2.0_臺北市立圖書館大同分館",
+      "sarea": "大同區",
+      "mday": "2025-04-19 23:35:03",
+      "ar": "重慶北路三段318號旁",
+      "sareaen": "Datong Dist",
+      "snaen": "YouBike2.0_Taipei Public Library DaTong Branch",
+      "aren": "No. 318， Sec. 3， Chongqing N Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 23:35:03",
+      "infoDate": "2025-04-19",
+      "total": 40,
+      "available_rent_bikes": 13,
+      "latitude": 25.0741,
+      "longitude": 121.51349,
+      "available_return_bikes": 27
+    }
+  }
+]

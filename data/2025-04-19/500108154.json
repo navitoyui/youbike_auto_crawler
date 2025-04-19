@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500108154",
+      "sna": "YouBike2.0_世紀經貿",
+      "sarea": "內湖區",
+      "mday": "2025-04-19 22:34:14",
+      "ar": "內湖路一段396號",
+      "sareaen": "Neihu Dist",
+      "snaen": "YouBike2.0_Century Trade Building",
+      "aren": "No. 396， Sec. 1， Neihu Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:34:14",
+      "infoDate": "2025-04-19",
+      "total": 16,
+      "available_rent_bikes": 1,
+      "latitude": 25.08049,
+      "longitude": 121.57361,
+      "available_return_bikes": 15
+    }
+  }
+]

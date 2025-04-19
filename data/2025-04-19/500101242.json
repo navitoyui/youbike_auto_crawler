@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500101242",
+      "sna": "YouBike2.0_和平東路三段308巷口",
+      "sarea": "大安區",
+      "mday": "2025-04-19 22:22:02",
+      "ar": "樂業街173號對側",
+      "sareaen": "Daan Dist.",
+      "snaen": "YouBike2.0_Ln. 308， Sec. 3， HePing E. Rd.",
+      "aren": "No. 173， LeYe St. (Opposite)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:22:02",
+      "infoDate": "2025-04-19",
+      "total": 14,
+      "available_rent_bikes": 6,
+      "latitude": 25.01883,
+      "longitude": 121.5544,
+      "available_return_bikes": 8
+    }
+  }
+]

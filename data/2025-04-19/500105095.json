@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500105095",
+      "sna": "YouBike2.0_興隆路二段22巷9弄口",
+      "sarea": "文山區",
+      "mday": "2025-04-19 22:10:05",
+      "ar": "興隆路二段22巷9弄與景興街23巷6弄口",
+      "sareaen": "Wenshan Dist",
+      "snaen": "YouBike2.0_Aly. 9， Ln. 22， Sec. 2， XingLong Rd.",
+      "aren": "Aly. 9， Ln. 22， Sec. 2， XingLong Rd. & Aly. 6， Ln. 23， JingXing Rd. Intersection",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:10:05",
+      "infoDate": "2025-04-19",
+      "total": 13,
+      "available_rent_bikes": 7,
+      "latitude": 24.99746,
+      "longitude": 121.54543,
+      "available_return_bikes": 6
+    }
+  }
+]

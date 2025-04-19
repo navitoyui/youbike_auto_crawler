@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500113066",
+      "sna": "YouBike2.0_青年公園3號出口",
+      "sarea": "萬華區",
+      "mday": "2025-04-19 22:40:04",
+      "ar": "青年路/青年路106巷(東側)",
+      "sareaen": "Wanhua Dist",
+      "snaen": "YouBike2.0_Youth Park (Exit 3)",
+      "aren": "Qingnian Rd. & Ln. 106， Qingnian Rd. Intersection (East)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:40:04",
+      "infoDate": "2025-04-19",
+      "total": 46,
+      "available_rent_bikes": 32,
+      "latitude": 25.02273,
+      "longitude": 121.50271,
+      "available_return_bikes": 13
+    }
+  }
+]

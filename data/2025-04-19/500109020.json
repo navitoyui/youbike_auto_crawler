@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500109020",
+      "sna": "YouBike2.0_秀山區民活動中心",
+      "sarea": "北投區",
+      "mday": "2025-04-19 21:30:04",
+      "ar": "秀山路50號(旁)",
+      "sareaen": "Beitou Dist",
+      "snaen": "YouBike2.0_Xiushan Community Center",
+      "aren": "No. 50， Xiushan Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 21:30:04",
+      "infoDate": "2025-04-19",
+      "total": 36,
+      "available_rent_bikes": 11,
+      "latitude": 25.14582,
+      "longitude": 121.49303,
+      "available_return_bikes": 25
+    }
+  }
+]

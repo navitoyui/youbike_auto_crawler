@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500113054",
+      "sna": "YouBike2.0_長順街60巷口",
+      "sarea": "萬華區",
+      "mday": "2025-04-19 22:39:01",
+      "ar": "長順街60巷38號對側",
+      "sareaen": "Wanhua Dist",
+      "snaen": "YouBike2.0_Ln. 60， Changshun St.",
+      "aren": "No. 38， Ln. 60， Changshun St. (Opposite)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:39:01",
+      "infoDate": "2025-04-19",
+      "total": 15,
+      "available_rent_bikes": 6,
+      "latitude": 25.03119,
+      "longitude": 121.48858,
+      "available_return_bikes": 9
+    }
+  }
+]

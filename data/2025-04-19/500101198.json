@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500101198",
+      "sna": "YouBike2.0_市民復興路口(東南側)",
+      "sarea": "大安區",
+      "mday": "2025-04-19 23:06:15",
+      "ar": "市民大道四段/復興路一段口(東南側)",
+      "sareaen": "Daan Dist.",
+      "snaen": "YouBike2.0_Civic Blvd. & Fuxing Rd. Intersection (Southeast)",
+      "aren": "Sec. 4， Civic Blvd. & Sec. 1， Fuxing S. Rd. Intersection (Southeast)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 23:06:15",
+      "infoDate": "2025-04-19",
+      "total": 16,
+      "available_rent_bikes": 1,
+      "latitude": 25.04472,
+      "longitude": 121.54401,
+      "available_return_bikes": 14
+    }
+  }
+]

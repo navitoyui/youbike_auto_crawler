@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500108001",
+      "sna": "YouBike2.0_文湖街21巷118弄口",
+      "sarea": "內湖區",
+      "mday": "2025-04-19 22:26:02",
+      "ar": "文湖街21巷118弄6-10號(前)",
+      "sareaen": "Neihu Dist",
+      "snaen": "YouBike2.0_Aly. 118， Ln. 21， Wunhu St.",
+      "aren": "No. 6-10， Aly. 118， Ln. 21， Wunhu St.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:26:02",
+      "infoDate": "2025-04-19",
+      "total": 28,
+      "available_rent_bikes": 15,
+      "latitude": 25.09122,
+      "longitude": 121.55961,
+      "available_return_bikes": 13
+    }
+  }
+]

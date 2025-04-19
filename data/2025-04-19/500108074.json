@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500108074",
+      "sna": "YouBike2.0_康寧公園(北側)",
+      "sarea": "內湖區",
+      "mday": "2025-04-19 21:54:14",
+      "ar": "康寧路三段60號南側",
+      "sareaen": "Neihu Dist",
+      "snaen": "YouBike2.0_Kangning Park (North)",
+      "aren": "No. 60， Sec. 3， Kangning Rd. (South)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 21:54:14",
+      "infoDate": "2025-04-19",
+      "total": 20,
+      "available_rent_bikes": 1,
+      "latitude": 25.06927,
+      "longitude": 121.61019,
+      "available_return_bikes": 19
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500105048",
+      "sna": "YouBike2.0_捷運萬芳醫院站(興隆路三段115巷)",
+      "sarea": "文山區",
+      "mday": "2025-04-19 22:30:02",
+      "ar": "興隆路三段115巷2號",
+      "sareaen": "Wenshan Dist",
+      "snaen": "YouBike2.0_MRT Wanfang Hospital Sta. (Ln. 115， Sec. 3， Xinglong Rd.)",
+      "aren": "No. 2， Ln. 115， Sec. 3， Xinglong Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:30:02",
+      "infoDate": "2025-04-19",
+      "total": 20,
+      "available_rent_bikes": 1,
+      "latitude": 24.99939,
+      "longitude": 121.55848,
+      "available_return_bikes": 19
+    }
+  }
+]

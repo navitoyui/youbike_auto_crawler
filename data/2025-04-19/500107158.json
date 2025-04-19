@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500107158",
+      "sna": "YouBike2.0_環山抽水站",
+      "sarea": "中山區",
+      "mday": "2025-04-19 22:38:02",
+      "ar": "基湖路168號前",
+      "sareaen": "Zhongshan Dist",
+      "snaen": "YouBike2.0_HuanShan Pumping Station",
+      "aren": "No. 168， JiHu Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:38:02",
+      "infoDate": "2025-04-19",
+      "total": 21,
+      "available_rent_bikes": 10,
+      "latitude": 25.07734,
+      "longitude": 121.5631,
+      "available_return_bikes": 11
+    }
+  }
+]

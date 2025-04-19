@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500107041",
+      "sna": "YouBike2.0_民族林森路口",
+      "sarea": "中山區",
+      "mday": "2025-04-19 22:43:01",
+      "ar": "民族東路17號前",
+      "sareaen": "Zhongshan Dist",
+      "snaen": "YouBike2.0_Minzu Rd. & Linsen Rd. Intersection",
+      "aren": "No. 17， Minzu E. Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:43:01",
+      "infoDate": "2025-04-19",
+      "total": 37,
+      "available_rent_bikes": 28,
+      "latitude": 25.06847,
+      "longitude": 121.52559,
+      "available_return_bikes": 8
+    }
+  }
+]

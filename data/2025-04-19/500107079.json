@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500107079",
+      "sna": "YouBike2.0_新生錦州街口",
+      "sarea": "中山區",
+      "mday": "2025-04-19 22:24:14",
+      "ar": "新生北路二段100號前",
+      "sareaen": "Zhongshan Dist",
+      "snaen": "YouBike2.0_Xinsheng Rd. & Jinzhou St. Intersection",
+      "aren": "No. 100， Sec. 2， Xinsheng N. Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:24:14",
+      "infoDate": "2025-04-19",
+      "total": 20,
+      "available_rent_bikes": 20,
+      "latitude": 25.05955,
+      "longitude": 121.52744,
+      "available_return_bikes": 0
+    }
+  }
+]

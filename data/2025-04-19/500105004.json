@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500105004",
+      "sna": "YouBike2.0_萬和二號公園",
+      "sarea": "文山區",
+      "mday": "2025-04-19 23:18:02",
+      "ar": "萬隆街255號(對面)",
+      "sareaen": "Wenshan Dist",
+      "snaen": "YouBike2.0_Wanhe 2nd Park",
+      "aren": "No. 255， Wanlong St.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 23:18:02",
+      "infoDate": "2025-04-19",
+      "total": 35,
+      "available_rent_bikes": 21,
+      "latitude": 25.00154,
+      "longitude": 121.5364,
+      "available_return_bikes": 14
+    }
+  }
+]

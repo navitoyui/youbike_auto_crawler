@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500110018",
+      "sna": "YouBike2.0_捷運小巨蛋站(2號出口)",
+      "sarea": "松山區",
+      "mday": "2025-04-19 21:57:14",
+      "ar": "南京東路四段6號(前)",
+      "sareaen": "Songshan Dist",
+      "snaen": "YouBike2.0_MRT Taipei Arena Sta. (Exit.2)",
+      "aren": "No.6， Sec. 4， Nanjing E. Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 21:57:14",
+      "infoDate": "2025-04-19",
+      "total": 26,
+      "available_rent_bikes": 0,
+      "latitude": 25.05157,
+      "longitude": 121.55118,
+      "available_return_bikes": 26
+    }
+  }
+]

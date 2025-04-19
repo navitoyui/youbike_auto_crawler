@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500113031",
+      "sna": "YouBike2.0_糖廍文化園區",
+      "sarea": "萬華區",
+      "mday": "2025-04-19 22:22:02",
+      "ar": "大理街177號對側",
+      "sareaen": "Wanhua Dist",
+      "snaen": "YouBike2.0_Tang bu Cultural Park",
+      "aren": "No. 177， Dali St. (Opposite)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:22:02",
+      "infoDate": "2025-04-19",
+      "total": 18,
+      "available_rent_bikes": 12,
+      "latitude": 25.03383,
+      "longitude": 121.4946,
+      "available_return_bikes": 5
+    }
+  }
+]

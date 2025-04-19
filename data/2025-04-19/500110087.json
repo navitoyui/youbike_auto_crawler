@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500110087",
+      "sna": "YouBike2.0_寶清八德路口(北側)",
+      "sarea": "松山區",
+      "mday": "2025-04-20 00:06:15",
+      "ar": "寶清街29號旁",
+      "sareaen": "Songshan Dist",
+      "snaen": "YouBike2.0_BaoQing St. & BaDe Rd. Intersection (North)",
+      "aren": "No. 29， BaoQing St.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-20 00:06:15",
+      "infoDate": "2025-04-20",
+      "total": 19,
+      "available_rent_bikes": 16,
+      "latitude": 25.05028,
+      "longitude": 121.56879,
+      "available_return_bikes": 2
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500103045",
+      "sna": "YouBike2.0_歸綏戲曲公園",
+      "sarea": "大同區",
+      "mday": "2025-04-20 00:10:03",
+      "ar": "重慶北路二段/歸綏街口(南側)",
+      "sareaen": "Datong Dist",
+      "snaen": "YouBike2.0_Guisui Park",
+      "aren": "Sec. 2， Chongqing N. Rd. & Guisui St. Intersection (South)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-20 00:10:03",
+      "infoDate": "2025-04-20",
+      "total": 20,
+      "available_rent_bikes": 12,
+      "latitude": 25.05805,
+      "longitude": 121.51353,
+      "available_return_bikes": 6
+    }
+  }
+]

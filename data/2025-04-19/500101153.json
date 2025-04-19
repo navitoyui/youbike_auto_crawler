@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500101153",
+      "sna": "YouBike2.0_瑠公公園",
+      "sarea": "大安區",
+      "mday": "2025-04-19 22:37:02",
+      "ar": "忠孝東路四段49巷4弄/大安路口",
+      "sareaen": "Daan Dist.",
+      "snaen": "YouBike2.0_Liugong Park",
+      "aren": "Aly. 4， Ln. 49， Sec. 4， Zhongxiao E. Rd./Da'an Rd. Intersection",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:37:02",
+      "infoDate": "2025-04-19",
+      "total": 20,
+      "available_rent_bikes": 1,
+      "latitude": 25.04201,
+      "longitude": 121.54612,
+      "available_return_bikes": 19
+    }
+  }
+]

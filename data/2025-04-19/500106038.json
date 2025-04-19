@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500106038",
+      "sna": "YouBike2.0_南門國中",
+      "sarea": "中正區",
+      "mday": "2025-04-19 22:03:01",
+      "ar": "廣州街8巷/廣州街口東南側",
+      "sareaen": "Zhongzheng Dist",
+      "snaen": "YouBike2.0_Nan Men Junior High School",
+      "aren": "Ln. 8， Guangzhou St/Guangzhou St Intersection. (Southeast)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:03:01",
+      "infoDate": "2025-04-19",
+      "total": 40,
+      "available_rent_bikes": 13,
+      "latitude": 25.03543,
+      "longitude": 121.50834,
+      "available_return_bikes": 27
+    }
+  }
+]

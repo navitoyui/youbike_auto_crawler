@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500113020",
+      "sna": "YouBike2.0_忠德公園",
+      "sarea": "萬華區",
+      "mday": "2025-04-19 22:38:02",
+      "ar": "東園街66巷20弄27號前",
+      "sareaen": "Wanhua Dist",
+      "snaen": "YouBike2.0_Zhongde Park",
+      "aren": "No. 27， Aly 20， Ln 66， Dongyuan St.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:38:02",
+      "infoDate": "2025-04-19",
+      "total": 19,
+      "available_rent_bikes": 12,
+      "latitude": 25.02516,
+      "longitude": 121.49604,
+      "available_return_bikes": 7
+    }
+  }
+]

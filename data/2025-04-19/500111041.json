@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500111041",
+      "sna": "YouBike2.0_南港高中(昆陽街)",
+      "sarea": "南港區",
+      "mday": "2025-04-19 22:26:02",
+      "ar": "昆陽街58號東側",
+      "sareaen": "Nangang Dist",
+      "snaen": "YouBike2.0_Nangang Senior High School (Kunyang St.)",
+      "aren": "No. 58， Kunyang St. (East)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:26:02",
+      "infoDate": "2025-04-19",
+      "total": 26,
+      "available_rent_bikes": 7,
+      "latitude": 25.05285,
+      "longitude": 121.59279,
+      "available_return_bikes": 19
+    }
+  }
+]

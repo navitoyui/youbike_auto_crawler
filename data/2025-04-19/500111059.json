@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500111059",
+      "sna": "YouBike2.0_向陽公園",
+      "sarea": "南港區",
+      "mday": "2025-04-19 18:01:15",
+      "ar": "成功路一段76號對側",
+      "sareaen": "Nangang Dist",
+      "snaen": "YouBike2.0_Siangyang Greens",
+      "aren": "No. 76， Sec. 1， Chenggong Rd. (Opposite)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 18:01:15",
+      "infoDate": "2025-04-19",
+      "total": 17,
+      "available_rent_bikes": 2,
+      "latitude": 25.05705,
+      "longitude": 121.59265,
+      "available_return_bikes": 15
+    }
+  }
+]

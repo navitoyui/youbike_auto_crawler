@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500111017",
+      "sna": "YouBike2.0_凌雲市場",
+      "sarea": "南港區",
+      "mday": "2025-04-19 23:46:02",
+      "ar": "研究院路三段68巷9號北側",
+      "sareaen": "Nangang Dist",
+      "snaen": "YouBike2.0_Lingyun Market",
+      "aren": "No. 9， Ln. 68， Sec. 3， Academia Rd. (North)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 23:46:02",
+      "infoDate": "2025-04-19",
+      "total": 35,
+      "available_rent_bikes": 18,
+      "latitude": 25.03564,
+      "longitude": 121.61415,
+      "available_return_bikes": 17
+    }
+  }
+]

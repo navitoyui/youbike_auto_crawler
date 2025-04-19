@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500106053",
+      "sna": "YouBike2.0_寶慶博愛路口",
+      "sarea": "中正區",
+      "mday": "2025-04-19 22:03:01",
+      "ar": "博愛路162號",
+      "sareaen": "Zhongzheng Dist",
+      "snaen": "YouBike2.0_Baoqing Rd & Bo'ai Rd Intersection",
+      "aren": "No. 162， Bo'ai Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:03:01",
+      "infoDate": "2025-04-19",
+      "total": 47,
+      "available_rent_bikes": 4,
+      "latitude": 25.04129,
+      "longitude": 121.5112,
+      "available_return_bikes": 43
+    }
+  }
+]

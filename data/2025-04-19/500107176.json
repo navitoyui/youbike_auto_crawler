@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500107176",
+      "sna": "YouBike2.0_晴光公園",
+      "sarea": "中山區",
+      "mday": "2025-04-19 22:09:02",
+      "ar": "雙城街13巷3號對側",
+      "sareaen": "Zhongshan Dist",
+      "snaen": "YouBike2.0_Qingguang Park",
+      "aren": "No. 3， Ln. 13， ShuangCheng St. (Opposite)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:09:02",
+      "infoDate": "2025-04-19",
+      "total": 15,
+      "available_rent_bikes": 3,
+      "latitude": 25.06411,
+      "longitude": 121.52446,
+      "available_return_bikes": 12
+    }
+  }
+]

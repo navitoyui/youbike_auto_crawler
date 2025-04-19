@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500108160",
+      "sna": "YouBike2.0_新光基湖大樓",
+      "sarea": "內湖區",
+      "mday": "2025-04-19 14:10:02",
+      "ar": "基湖路12號",
+      "sareaen": "Neihu Dist",
+      "snaen": "YouBike2.0_Shinkong Jihu Building",
+      "aren": "No. 12， Jihu Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 14:10:02",
+      "infoDate": "2025-04-19",
+      "total": 19,
+      "available_rent_bikes": 9,
+      "latitude": 25.08152,
+      "longitude": 121.56489,
+      "available_return_bikes": 10
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500109034",
+      "sna": "YouBike2.0_捷運石牌站(2號出口)",
+      "sarea": "北投區",
+      "mday": "2025-04-19 23:40:03",
+      "ar": "東華街一段526號(對面)",
+      "sareaen": "Beitou Dist",
+      "snaen": "YouBike2.0_MRT Shipai Sta. (Exit 2)",
+      "aren": "No. 526， Sec. 1， Donghua St. (Opposite)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 23:40:03",
+      "infoDate": "2025-04-19",
+      "total": 62,
+      "available_rent_bikes": 8,
+      "latitude": 25.11451,
+      "longitude": 121.51567,
+      "available_return_bikes": 54
+    }
+  }
+]

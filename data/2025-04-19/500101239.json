@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500101239",
+      "sna": "YouBike2.0_古風公園",
+      "sarea": "大安區",
+      "mday": "2025-04-19 22:35:15",
+      "ar": "龍泉街93巷7號對側",
+      "sareaen": "Daan Dist.",
+      "snaen": "YouBike2.0_GuFeng Park",
+      "aren": "No. 7， Ln. 93， LongQuan St. (Opposite)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:35:15",
+      "infoDate": "2025-04-19",
+      "total": 15,
+      "available_rent_bikes": 10,
+      "latitude": 25.02187,
+      "longitude": 121.52912,
+      "available_return_bikes": 1
+    }
+  }
+]

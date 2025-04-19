@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500108187",
+      "sna": "YouBike2.0_文德路66巷14弄",
+      "sarea": "內湖區",
+      "mday": "2025-04-19 22:50:04",
+      "ar": "文德路66巷14弄16號",
+      "sareaen": "Neihu Dist",
+      "snaen": "YouBike2.0_Aly. 14， Ln. 66， WenDe Rd.",
+      "aren": "No. 16， Aly. 14， Ln. 66， WenDe Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:50:04",
+      "infoDate": "2025-04-19",
+      "total": 18,
+      "available_rent_bikes": 4,
+      "latitude": 25.07712,
+      "longitude": 121.58096,
+      "available_return_bikes": 14
+    }
+  }
+]

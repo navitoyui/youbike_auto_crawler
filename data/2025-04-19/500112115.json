@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500112115",
+      "sna": "YouBike2.0_信安街/富陽街44巷口",
+      "sarea": "信義區",
+      "mday": "2025-04-19 23:58:14",
+      "ar": "信安街151號(前)",
+      "sareaen": "Xinyi Dist",
+      "snaen": "YouBike2.0_XinAn St. & Ln. 44， FuYang St. Intersection",
+      "aren": "No. 151， XinAn St.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 23:58:14",
+      "infoDate": "2025-04-19",
+      "total": 21,
+      "available_rent_bikes": 13,
+      "latitude": 25.02309,
+      "longitude": 121.55537,
+      "available_return_bikes": 8
+    }
+  }
+]

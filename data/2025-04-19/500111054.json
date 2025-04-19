@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500111054",
+      "sna": "YouBike2.0_經貿公園",
+      "sarea": "南港區",
+      "mday": "2025-04-19 17:43:16",
+      "ar": "經園街58號北側",
+      "sareaen": "Nangang Dist",
+      "snaen": "YouBike2.0_Jingmao Park",
+      "aren": "No. 58， Jingyuan St. (North)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 17:43:16",
+      "infoDate": "2025-04-19",
+      "total": 20,
+      "available_rent_bikes": 0,
+      "latitude": 25.06271,
+      "longitude": 121.61597,
+      "available_return_bikes": 20
+    }
+  }
+]

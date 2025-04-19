@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500108126",
+      "sna": "YouBike2.0_安泰街(康樂橋下)",
+      "sarea": "內湖區",
+      "mday": "2025-04-19 17:20:03",
+      "ar": "安泰街(康樂橋下)",
+      "sareaen": "Neihu Dist",
+      "snaen": "YouBike2.0_Antai St.(Kangle Bridge)",
+      "aren": "Antai St.(Kangle Bridge)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 17:20:03",
+      "infoDate": "2025-04-19",
+      "total": 21,
+      "available_rent_bikes": 2,
+      "latitude": 25.07849,
+      "longitude": 121.61666,
+      "available_return_bikes": 19
+    }
+  }
+]

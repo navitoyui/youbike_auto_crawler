@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500110056",
+      "sna": "YouBike2.0_長壽公園",
+      "sarea": "松山區",
+      "mday": "2025-04-19 22:32:16",
+      "ar": "健康路174號(旁)",
+      "sareaen": "Songshan Dist",
+      "snaen": "YouBike2.0_Changshou Park",
+      "aren": "No. 174， Jiankang Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:32:16",
+      "infoDate": "2025-04-19",
+      "total": 22,
+      "available_rent_bikes": 20,
+      "latitude": 25.05378,
+      "longitude": 121.55893,
+      "available_return_bikes": 1
+    }
+  }
+]

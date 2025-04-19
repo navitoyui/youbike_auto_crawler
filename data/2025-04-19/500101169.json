@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500101169",
+      "sna": "YouBike2.0_捷運信義安和站(4號出口)",
+      "sarea": "大安區",
+      "mday": "2025-04-19 23:57:01",
+      "ar": "信義路四段252號前",
+      "sareaen": "Daan Dist.",
+      "snaen": "YouBike2.0_MRT Xinyi Anhe Sta.(Exit.4)",
+      "aren": "No. 252， Sec. 4， Sinyi Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 23:57:01",
+      "infoDate": "2025-04-19",
+      "total": 49,
+      "available_rent_bikes": 8,
+      "latitude": 25.03305,
+      "longitude": 121.55378,
+      "available_return_bikes": 40
+    }
+  }
+]

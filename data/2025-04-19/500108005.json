@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500108005",
+      "sna": "YouBike2.0_文湖國小",
+      "sarea": "內湖區",
+      "mday": "2025-04-19 23:40:03",
+      "ar": "文湖街21巷口北側",
+      "sareaen": "Neihu Dist",
+      "snaen": "YouBike2.0_Wenhu Elementary School",
+      "aren": "Ln. 21， Wunhu St.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 23:40:03",
+      "infoDate": "2025-04-19",
+      "total": 43,
+      "available_rent_bikes": 32,
+      "latitude": 25.08637,
+      "longitude": 121.56088,
+      "available_return_bikes": 11
+    }
+  }
+]

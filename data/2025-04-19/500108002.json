@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500108002",
+      "sna": "YouBike2.0_北勢湖環保公園",
+      "sarea": "內湖區",
+      "mday": "2025-04-19 22:09:02",
+      "ar": "內湖路一段66-72號前方公園",
+      "sareaen": "Neihu Dist",
+      "snaen": "YouBike2.0_Beishi Lake Environmental Park",
+      "aren": "No. 66-72， Sec. 1， Neihu Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:09:02",
+      "infoDate": "2025-04-19",
+      "total": 27,
+      "available_rent_bikes": 6,
+      "latitude": 25.08378,
+      "longitude": 121.56208,
+      "available_return_bikes": 21
+    }
+  }
+]

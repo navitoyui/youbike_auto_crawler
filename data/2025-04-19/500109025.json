@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500109025",
+      "sna": "YouBike2.0_捷運奇岩站(三合街)",
+      "sarea": "北投區",
+      "mday": "2025-04-19 22:54:01",
+      "ar": "三合街二段486號(旁)",
+      "sareaen": "Beitou Dist",
+      "snaen": "YouBike2.0_MRT Qiyan Station(Sanhe St.)",
+      "aren": "No. 486， Sec. 2， Sanhe St.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:54:01",
+      "infoDate": "2025-04-19",
+      "total": 40,
+      "available_rent_bikes": 26,
+      "latitude": 25.12634,
+      "longitude": 121.50099,
+      "available_return_bikes": 13
+    }
+  }
+]

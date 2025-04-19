@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500113062",
+      "sna": "YouBike2.0_龍山國中",
+      "sarea": "萬華區",
+      "mday": "2025-04-19 22:11:01",
+      "ar": "南寧路與廣州街口南側",
+      "sareaen": "Wanhua Dist",
+      "snaen": "YouBike2.0_LongShan Junior High School",
+      "aren": "Nanning Rd. & Guangzhou St. Intersection (South)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:11:01",
+      "infoDate": "2025-04-19",
+      "total": 15,
+      "available_rent_bikes": 8,
+      "latitude": 25.03646,
+      "longitude": 121.50492,
+      "available_return_bikes": 6
+    }
+  }
+]

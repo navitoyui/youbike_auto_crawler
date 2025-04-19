@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500101244",
+      "sna": "YouBike2.0_浦城街26巷",
+      "sarea": "大安區",
+      "mday": "2025-04-19 22:11:01",
+      "ar": "浦城街26巷8號對面",
+      "sareaen": "Daan Dist.",
+      "snaen": "YouBike2.0_Ln. 26， PuCheng St.",
+      "aren": "No. 8， Ln. 26， PuCheng St. (Opposite)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:11:01",
+      "infoDate": "2025-04-19",
+      "total": 17,
+      "available_rent_bikes": 7,
+      "latitude": 25.02324,
+      "longitude": 121.52618,
+      "available_return_bikes": 8
+    }
+  }
+]

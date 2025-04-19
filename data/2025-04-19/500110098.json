@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500110098",
+      "sna": "YouBike2.0_中崙高中停車場",
+      "sarea": "松山區",
+      "mday": "2025-04-19 22:20:16",
+      "ar": "光復北路11巷81號對側",
+      "sareaen": "Songshan Dist",
+      "snaen": "YouBike2.0_Zhonglun High School Car Park",
+      "aren": "No. 81， Ln. 11， GuangFu N. Rd. (Opposite)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:20:16",
+      "infoDate": "2025-04-19",
+      "total": 25,
+      "available_rent_bikes": 1,
+      "latitude": 25.05023,
+      "longitude": 121.56153,
+      "available_return_bikes": 24
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500109111",
+      "sna": "YouBike2.0_文林橋(文林北路75巷)",
+      "sarea": "北投區",
+      "mday": "2025-04-19 08:40:02",
+      "ar": "文林北路75巷/文林北路53巷(南側橋下)",
+      "sareaen": "Beitou Dist",
+      "snaen": "YouBike2.0_WenLin Bridge (Ln. 75， WenLin N. Rd.)",
+      "aren": "Ln. 75， WenLin N. Rd. & Ln. 53， WenLin N. Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 08:40:02",
+      "infoDate": "2025-04-19",
+      "total": 25,
+      "available_rent_bikes": 9,
+      "latitude": 25.10192,
+      "longitude": 121.51719,
+      "available_return_bikes": 16
+    }
+  }
+]

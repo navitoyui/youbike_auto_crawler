@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500104008",
+      "sna": "YouBike2.0_天母運動公園",
+      "sarea": "士林區",
+      "mday": "2025-04-19 22:50:04",
+      "ar": "忠誠路二段/忠誠路二段207巷(東南側)",
+      "sareaen": "Shilin Dist",
+      "snaen": "YouBike2.0_Tianmu Sports Park",
+      "aren": "Ln. 207， Sec.2， Zhongcheng Rd. (Southeast)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:50:04",
+      "infoDate": "2025-04-19",
+      "total": 50,
+      "available_rent_bikes": 23,
+      "latitude": 25.11633,
+      "longitude": 121.53414,
+      "available_return_bikes": 27
+    }
+  }
+]

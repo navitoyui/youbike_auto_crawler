@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500111006",
+      "sna": "YouBike2.0_合樂公園",
+      "sarea": "南港區",
+      "mday": "2025-04-19 22:26:02",
+      "ar": "玉成街46號東側",
+      "sareaen": "Nangang Dist",
+      "snaen": "YouBike2.0_Hele Park",
+      "aren": "No. 46， Yucheng St. (East)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:26:02",
+      "infoDate": "2025-04-19",
+      "total": 15,
+      "available_rent_bikes": 9,
+      "latitude": 25.04843,
+      "longitude": 121.58154,
+      "available_return_bikes": 6
+    }
+  }
+]

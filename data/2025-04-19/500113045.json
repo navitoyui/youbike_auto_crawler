@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500113045",
+      "sna": "YouBike2.0_萬華火車站(D2廣場)",
+      "sarea": "萬華區",
+      "mday": "2025-04-19 23:53:01",
+      "ar": "康定路/康定路287巷(東南側)",
+      "sareaen": "Wanhua Dist",
+      "snaen": "YouBike2.0_Wanhua Train Sta. (D2 Plaza)",
+      "aren": "Kangding Rd. & Ln. 287， Kangding Rd. Intersection",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 23:53:01",
+      "infoDate": "2025-04-19",
+      "total": 42,
+      "available_rent_bikes": 6,
+      "latitude": 25.03394,
+      "longitude": 121.50117,
+      "available_return_bikes": 36
+    }
+  }
+]

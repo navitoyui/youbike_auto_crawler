@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500107002",
+      "sna": "YouBike2.0_圓山風景區",
+      "sarea": "中山區",
+      "mday": "2025-04-19 21:32:15",
+      "ar": "北安路/北安路77巷口(西北側)",
+      "sareaen": "Zhongshan Dist",
+      "snaen": "YouBike2.0_Yuanshan Scenic Area",
+      "aren": "Bei'an Rd./Ln. 77， Bei'an Rd. Intersection",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 21:32:15",
+      "infoDate": "2025-04-19",
+      "total": 15,
+      "available_rent_bikes": 0,
+      "latitude": 25.07805,
+      "longitude": 121.5295,
+      "available_return_bikes": 15
+    }
+  }
+]

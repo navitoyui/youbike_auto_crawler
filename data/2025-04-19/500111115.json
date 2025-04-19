@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500111115",
+      "sna": "YouBike2.0_南港機廠(北流)",
+      "sarea": "南港區",
+      "mday": "2025-04-19 22:37:02",
+      "ar": "北流側忠孝東路七段/南港機廠公車站",
+      "sareaen": "Nangang Dist",
+      "snaen": "YouBike2.0_Nangang Depot Bus Station (Taipei Pop Music Center)",
+      "aren": "Sec. 7， ZhongXiao E. Rd. (Nangang Depot Bus Station)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:37:02",
+      "infoDate": "2025-04-19",
+      "total": 20,
+      "available_rent_bikes": 9,
+      "latitude": 25.05156,
+      "longitude": 121.6014,
+      "available_return_bikes": 11
+    }
+  }
+]

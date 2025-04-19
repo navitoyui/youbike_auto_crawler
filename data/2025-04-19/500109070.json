@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500109070",
+      "sna": "YouBike2.0_光明溫泉路口",
+      "sarea": "北投區",
+      "mday": "2025-04-19 22:47:15",
+      "ar": "光明路148號對側人行道",
+      "sareaen": "Beitou Dist",
+      "snaen": "YouBike2.0_Guangming Rd. & Wenquan Rd. Intersection",
+      "aren": "No. 148， Guangming Rd. (Opposite)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:47:15",
+      "infoDate": "2025-04-19",
+      "total": 30,
+      "available_rent_bikes": 22,
+      "latitude": 25.13431,
+      "longitude": 121.50226,
+      "available_return_bikes": 8
+    }
+  }
+]

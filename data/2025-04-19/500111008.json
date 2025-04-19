@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500111008",
+      "sna": "YouBike2.0_成德國中",
+      "sarea": "南港區",
+      "mday": "2025-04-19 22:30:02",
+      "ar": "東新街118巷15號南側",
+      "sareaen": "Nangang Dist",
+      "snaen": "YouBike2.0_Chengde Junior High School",
+      "aren": "No. 15， Ln. 118， Dongxin St. Southwest)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:30:02",
+      "infoDate": "2025-04-19",
+      "total": 44,
+      "available_rent_bikes": 14,
+      "latitude": 25.04592,
+      "longitude": 121.5882,
+      "available_return_bikes": 26
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500101166",
+      "sna": "YouBike2.0_捷運科技大樓站(台北教育大學)",
+      "sarea": "大安區",
+      "mday": "2025-04-19 23:35:03",
+      "ar": "和平東路二段134號前",
+      "sareaen": "Daan Dist.",
+      "snaen": "YouBike2.0_MRT Technology Building Station",
+      "aren": "No. 134， Sec. 2， Heping E. Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 23:35:03",
+      "infoDate": "2025-04-19",
+      "total": 54,
+      "available_rent_bikes": 15,
+      "latitude": 25.02472,
+      "longitude": 121.54417,
+      "available_return_bikes": 39
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500119092",
+      "sna": "YouBike2.0_臺大管理學院一館",
+      "sarea": "臺大公館校區",
+      "mday": "2025-04-19 22:10:05",
+      "ar": "臺大管理學院一館前",
+      "sareaen": "NTU Dist",
+      "snaen": "YouBike2.0_NTU Bldg.1 College of Management",
+      "aren": "NTU Bldg.1 College of Management",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:10:05",
+      "infoDate": "2025-04-19",
+      "total": 17,
+      "available_rent_bikes": 2,
+      "latitude": 25.01436,
+      "longitude": 121.53828,
+      "available_return_bikes": 15
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500109101",
+      "sna": "YouBike2.0_關渡碼頭",
+      "sarea": "北投區",
+      "mday": "2025-04-19 23:20:03",
+      "ar": "關渡碼頭東南側",
+      "sareaen": "Beitou Dist",
+      "snaen": "YouBike2.0_Guandu Wharf",
+      "aren": "Guandu Wharf (Southeast)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 23:20:03",
+      "infoDate": "2025-04-19",
+      "total": 50,
+      "available_rent_bikes": 40,
+      "latitude": 25.12066,
+      "longitude": 121.46228,
+      "available_return_bikes": 8
+    }
+  }
+]

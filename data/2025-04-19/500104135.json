@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500104135",
+      "sna": "YouBike2.0_中山北路六段405巷",
+      "sarea": "士林區",
+      "mday": "2025-04-19 18:40:03",
+      "ar": "中山北路六段405巷60-3號(前)",
+      "sareaen": "Shilin Dist",
+      "snaen": "YouBike2.0_Ln. 405， Sec. 6， ZhongShan N. Rd.",
+      "aren": "No. 60-3， Ln. 405， Sec. 6， ZhongShan N. Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 18:40:03",
+      "infoDate": "2025-04-19",
+      "total": 21,
+      "available_rent_bikes": 4,
+      "latitude": 25.11576,
+      "longitude": 121.52693,
+      "available_return_bikes": 17
+    }
+  }
+]

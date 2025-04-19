@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500106114",
+      "sna": "YouBike2.0_仁愛金山路口(東南側)",
+      "sarea": "中正區",
+      "mday": "2025-04-19 22:51:14",
+      "ar": "仁愛路二段48-4號前",
+      "sareaen": "Zhongzheng Dist",
+      "snaen": "YouBike2.0_Ren'ai Rd. & Jinshan Rd. Intersection (Southeast)",
+      "aren": "No. 48-4， Sec. 2， Ren'ai Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:51:14",
+      "infoDate": "2025-04-19",
+      "total": 14,
+      "available_rent_bikes": 13,
+      "latitude": 25.03811,
+      "longitude": 121.52855,
+      "available_return_bikes": 0
+    }
+  }
+]

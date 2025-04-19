@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500105114",
+      "sna": "YouBike2.0_明道國小(明道國宅)",
+      "sarea": "文山區",
+      "mday": "2025-04-19 16:40:03",
+      "ar": "興隆路四段109巷40號北側",
+      "sareaen": "Wenshan Dist",
+      "snaen": "YouBike2.0_Ming Dao Elementary School (Ming Dao Public Housing)",
+      "aren": "No. 40， Ln. 109， Sec. 4， XingLong Rd. (North)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 16:40:03",
+      "infoDate": "2025-04-19",
+      "total": 26,
+      "available_rent_bikes": 2,
+      "latitude": 24.98686,
+      "longitude": 121.56301,
+      "available_return_bikes": 24
+    }
+  }
+]

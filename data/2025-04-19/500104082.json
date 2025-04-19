@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500104082",
+      "sna": "YouBike2.0_通河街76巷/承德路四段10巷口",
+      "sarea": "士林區",
+      "mday": "2025-04-19 23:52:02",
+      "ar": "承德路四段10巷37號(旁)",
+      "sareaen": "Shilin Dist",
+      "snaen": "YouBike2.0_Ln. 76， Tonghe St. & Ln. 10， Sec. 4， Chengde Rd. Intersection",
+      "aren": "No. 37， Ln. 10， Sec. 4， Chengde Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 23:52:02",
+      "infoDate": "2025-04-19",
+      "total": 14,
+      "available_rent_bikes": 7,
+      "latitude": 25.08019,
+      "longitude": 121.5202,
+      "available_return_bikes": 5
+    }
+  }
+]

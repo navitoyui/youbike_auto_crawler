@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500108140",
+      "sna": "YouBike2.0_臺北花市",
+      "sarea": "內湖區",
+      "mday": "2025-04-19 22:22:02",
+      "ar": "新湖三路28號前人行道",
+      "sareaen": "Neihu Dist",
+      "snaen": "YouBike2.0_Taipei Flowers Auction",
+      "aren": "No. 28， Xinhu 3rd Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:22:02",
+      "infoDate": "2025-04-19",
+      "total": 30,
+      "available_rent_bikes": 4,
+      "latitude": 25.06265,
+      "longitude": 121.57427,
+      "available_return_bikes": 26
+    }
+  }
+]

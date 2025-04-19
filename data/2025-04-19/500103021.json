@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500103021",
+      "sna": "YouBike2.0_大稻埕公園",
+      "sarea": "大同區",
+      "mday": "2025-04-19 22:48:14",
+      "ar": "安西街1巷7號(對側)",
+      "sareaen": "Datong Dist",
+      "snaen": "YouBike2.0_Dadaocheng Park",
+      "aren": "No. 7， Ln. 1， Anxi St. (Opposite)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:48:14",
+      "infoDate": "2025-04-19",
+      "total": 35,
+      "available_rent_bikes": 31,
+      "latitude": 25.05915,
+      "longitude": 121.51033,
+      "available_return_bikes": 2
+    }
+  }
+]

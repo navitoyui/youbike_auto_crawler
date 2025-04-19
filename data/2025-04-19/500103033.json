@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500103033",
+      "sna": "YouBike2.0_圓山線形公園",
+      "sarea": "大同區",
+      "mday": "2025-04-19 22:10:05",
+      "ar": "玉門街/民族西路(西北側)",
+      "sareaen": "Datong Dist",
+      "snaen": "YouBike2.0_Linear Park - Yuanshan",
+      "aren": "Minzu Rd. & Minzu W. Rd. Intersection (Northwest)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:10:05",
+      "infoDate": "2025-04-19",
+      "total": 26,
+      "available_rent_bikes": 23,
+      "latitude": 25.06867,
+      "longitude": 121.51993,
+      "available_return_bikes": 2
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500107160",
+      "sna": "YouBike2.0_復興五常街口(西南側)",
+      "sarea": "中山區",
+      "mday": "2025-04-19 23:18:02",
+      "ar": "復興北路448號",
+      "sareaen": "Zhongshan Dist",
+      "snaen": "YouBike2.0_FuXing N. Rd. & WuChang St. Intersection (Southwest)",
+      "aren": "No. 448， FuXing N. Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 23:18:02",
+      "infoDate": "2025-04-19",
+      "total": 26,
+      "available_rent_bikes": 17,
+      "latitude": 25.06409,
+      "longitude": 121.54415,
+      "available_return_bikes": 9
+    }
+  }
+]

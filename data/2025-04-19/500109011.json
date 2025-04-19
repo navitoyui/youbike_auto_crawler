@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500109011",
+      "sna": "YouBike2.0_捷運關渡站(1號出口)",
+      "sarea": "北投區",
+      "mday": "2025-04-19 23:57:01",
+      "ar": "大度路三段270巷/立功街55巷(西南側)",
+      "sareaen": "Beitou Dist",
+      "snaen": "YouBike2.0_MRT Guandu Sta. (Exit 1)",
+      "aren": "Ln. 270， Sec. 3， Dadu Rd. & Ln. 55， Ligong St. (Southwest)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 23:57:01",
+      "infoDate": "2025-04-19",
+      "total": 71,
+      "available_rent_bikes": 21,
+      "latitude": 25.12397,
+      "longitude": 121.46712,
+      "available_return_bikes": 48
+    }
+  }
+]

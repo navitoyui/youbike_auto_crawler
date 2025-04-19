@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500110091",
+      "sna": "YouBike2.0_新中街4巷口",
+      "sarea": "松山區",
+      "mday": "2025-04-19 23:52:02",
+      "ar": "三民路113巷33號",
+      "sareaen": "Songshan Dist",
+      "snaen": "YouBike2.0_Ln. 4， XinZhong St.",
+      "aren": "No. 33， Ln. 113， SanMin Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 23:52:02",
+      "infoDate": "2025-04-19",
+      "total": 36,
+      "available_rent_bikes": 14,
+      "latitude": 25.05779,
+      "longitude": 121.56167,
+      "available_return_bikes": 22
+    }
+  }
+]

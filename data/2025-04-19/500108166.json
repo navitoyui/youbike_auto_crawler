@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500108166",
+      "sna": "YouBike2.0_加瑪科技中心",
+      "sarea": "內湖區",
+      "mday": "2025-04-19 23:05:15",
+      "ar": "內湖路一段360巷17-19號",
+      "sareaen": "Neihu Dist",
+      "snaen": "YouBike2.0_Gamma Technology center",
+      "aren": "No. 17-19， Ln. 360， Sec. 1， Neihu Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 23:05:15",
+      "infoDate": "2025-04-19",
+      "total": 13,
+      "available_rent_bikes": 3,
+      "latitude": 25.08035,
+      "longitude": 121.5705,
+      "available_return_bikes": 10
+    }
+  }
+]

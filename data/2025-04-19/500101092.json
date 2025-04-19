@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500101092",
+      "sna": "YouBike2.0_和平實小東北側",
+      "sarea": "大安區",
+      "mday": "2025-04-19 22:54:01",
+      "ar": "敦南街73號",
+      "sareaen": "Daan Dist.",
+      "snaen": "YouBike2.0_Heping Experiment Elementary School (Northeast)",
+      "aren": "No. 73， Dunnan St.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:54:01",
+      "infoDate": "2025-04-19",
+      "total": 25,
+      "available_rent_bikes": 15,
+      "latitude": 25.021641,
+      "longitude": 121.54704,
+      "available_return_bikes": 10
+    }
+  }
+]

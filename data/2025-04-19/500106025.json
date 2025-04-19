@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500106025",
+      "sna": "YouBike2.0_螢橋國小",
+      "sarea": "中正區",
+      "mday": "2025-04-19 22:37:02",
+      "ar": "泉州街32號對面人行道",
+      "sareaen": "Zhongzheng Dist",
+      "snaen": "YouBike2.0_Ying-Qiao Elementary School",
+      "aren": "No. 32， Quanzhou St. (Opposite)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:37:02",
+      "infoDate": "2025-04-19",
+      "total": 41,
+      "available_rent_bikes": 31,
+      "latitude": 25.02609,
+      "longitude": 121.51389,
+      "available_return_bikes": 9
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500107128",
+      "sna": "YouBike2.0_林森德惠街口",
+      "sarea": "中山區",
+      "mday": "2025-04-20 00:03:15",
+      "ar": "德惠街11號東側",
+      "sareaen": "Zhongshan Dist",
+      "snaen": "YouBike2.0_Linsen Rd. & Dehui St. Intersection",
+      "aren": "No. 11， Dehui St. (East)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-20 00:03:15",
+      "infoDate": "2025-04-20",
+      "total": 16,
+      "available_rent_bikes": 11,
+      "latitude": 25.06688,
+      "longitude": 121.5257,
+      "available_return_bikes": 5
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500108188",
+      "sna": "YouBike2.0_捷運東湖站(3號出口)",
+      "sarea": "內湖區",
+      "mday": "2025-04-19 22:39:14",
+      "ar": "康寧路三段245巷2號對側",
+      "sareaen": "Neihu Dist",
+      "snaen": "YouBike2.0_MRT Donghu Sta. (Exit 3)",
+      "aren": "No. 2， Ln. 245， Sec. 3， KangNing Rd. (Opposite)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:39:14",
+      "infoDate": "2025-04-19",
+      "total": 30,
+      "available_rent_bikes": 1,
+      "latitude": 25.06701,
+      "longitude": 121.61194,
+      "available_return_bikes": 29
+    }
+  }
+]

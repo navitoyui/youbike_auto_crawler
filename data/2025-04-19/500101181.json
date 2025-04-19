@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500101181",
+      "sna": "YouBike2.0_捷運公館站(3號出口)",
+      "sarea": "大安區",
+      "mday": "2025-04-19 23:21:14",
+      "ar": "捷運公館站(3號出口)西側",
+      "sareaen": "Daan Dist.",
+      "snaen": "YouBike2.0_MRT Gongguan Sta.(Exit.3)",
+      "aren": "MRT Gongguan Sta.(Exit.3)(West)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 23:21:14",
+      "infoDate": "2025-04-19",
+      "total": 99,
+      "available_rent_bikes": 0,
+      "latitude": 25.01551,
+      "longitude": 121.53374,
+      "available_return_bikes": 98
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500101119",
+      "sna": "YouBike2.0_金杭公園",
+      "sarea": "大安區",
+      "mday": "2025-04-19 22:20:03",
+      "ar": "愛國東路21巷與杭州南路二段25巷口東南側",
+      "sareaen": "Daan Dist.",
+      "snaen": "YouBike2.0_Jinhang Park",
+      "aren": "Ln. 21， Aiguo E. Rd. & Ln. 25， Sec. 2， Hangzhou S. Rd. Intersection (Southeast)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:20:03",
+      "infoDate": "2025-04-19",
+      "total": 20,
+      "available_rent_bikes": 10,
+      "latitude": 25.03325,
+      "longitude": 121.52436,
+      "available_return_bikes": 9
+    }
+  }
+]

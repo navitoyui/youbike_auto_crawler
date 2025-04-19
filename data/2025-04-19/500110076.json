@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500110076",
+      "sna": "YouBike2.0_市民延吉街口",
+      "sarea": "松山區",
+      "mday": "2025-04-20 00:04:01",
+      "ar": "市民大道/延吉街(市民大道橋下空地)",
+      "sareaen": "Songshan Dist",
+      "snaen": "YouBike2.0_Civic Blvd. & Yanji St. Intersection",
+      "aren": "Civic Blvd. & Yanji St. Intersection (Under Bridge)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-20 00:04:01",
+      "infoDate": "2025-04-20",
+      "total": 30,
+      "available_rent_bikes": 12,
+      "latitude": 25.0444,
+      "longitude": 121.55397,
+      "available_return_bikes": 18
+    }
+  }
+]

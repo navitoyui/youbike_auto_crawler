@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500107075",
+      "sna": "YouBike2.0_國立臺北大學(臺北校區)",
+      "sarea": "中山區",
+      "mday": "2025-04-19 22:30:02",
+      "ar": "民生東路三段67號前",
+      "sareaen": "Zhongshan Dist",
+      "snaen": "YouBike2.0_National Taipei University(Taipei Canpus)",
+      "aren": "No. 67， Sec. 3， Minsheng E. Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:30:02",
+      "infoDate": "2025-04-19",
+      "total": 38,
+      "available_rent_bikes": 7,
+      "latitude": 25.05794,
+      "longitude": 121.54244,
+      "available_return_bikes": 31
+    }
+  }
+]

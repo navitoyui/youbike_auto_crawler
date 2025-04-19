@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500108158",
+      "sna": "YouBike2.0_新湖三新湖二146巷口",
+      "sarea": "內湖區",
+      "mday": "2025-04-19 19:10:03",
+      "ar": "新湖三路122、124號對側",
+      "sareaen": "Neihu Dist",
+      "snaen": "YouBike2.0_Xinhu 3rd Rd. & Ln. 146， Xinhu 2nd Rd. Intersection",
+      "aren": "No. 122、124， Xinhu 3rd Rd. (Opposite)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 19:10:03",
+      "infoDate": "2025-04-19",
+      "total": 25,
+      "available_rent_bikes": 3,
+      "latitude": 25.06407,
+      "longitude": 121.57787,
+      "available_return_bikes": 21
+    }
+  }
+]

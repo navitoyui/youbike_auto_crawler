@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500101036",
+      "sna": "YouBike2.0_臺大萬才館前",
+      "sarea": "大安區",
+      "mday": "2025-04-19 23:07:01",
+      "ar": "臺大萬才館北側",
+      "sareaen": "Daan Dist.",
+      "snaen": "YouBike2.0_NTU Wan Tsai Research Hall",
+      "aren": "NTU Wan Tsai Research Hall",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 23:07:01",
+      "infoDate": "2025-04-19",
+      "total": 20,
+      "available_rent_bikes": 8,
+      "latitude": 25.02032,
+      "longitude": 121.54497,
+      "available_return_bikes": 12
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500111089",
+      "sna": "YouBike2.0_向陽南港路口(西北側)",
+      "sarea": "南港區",
+      "mday": "2025-04-19 20:06:16",
+      "ar": "南港路二段312號",
+      "sareaen": "Nangang Dist",
+      "snaen": "YouBike2.0_XiangYang Rd. & NanGang Rd. Intersection (Northwest)",
+      "aren": "No. 312， Sec. 2， NanGang Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 20:06:16",
+      "infoDate": "2025-04-19",
+      "total": 16,
+      "available_rent_bikes": 2,
+      "latitude": 25.05486,
+      "longitude": 121.5944,
+      "available_return_bikes": 14
+    }
+  }
+]

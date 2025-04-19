@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500109009",
+      "sna": "YouBike2.0_關渡醫院",
+      "sarea": "北投區",
+      "mday": "2025-04-19 22:50:04",
+      "ar": "知行路235巷7號(對面)",
+      "sareaen": "Beitou Dist",
+      "snaen": "YouBike2.0_Taipei Guandu hospital",
+      "aren": "No. 7， Ln. 235， Zhixing Rd. (Opposite)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:50:04",
+      "infoDate": "2025-04-19",
+      "total": 14,
+      "available_rent_bikes": 9,
+      "latitude": 25.1203,
+      "longitude": 121.4665,
+      "available_return_bikes": 2
+    }
+  }
+]

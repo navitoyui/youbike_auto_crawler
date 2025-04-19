@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500111015",
+      "sna": "YouBike2.0_福山公園",
+      "sarea": "南港區",
+      "mday": "2025-04-19 22:22:02",
+      "ar": "福山街44巷27號東南側",
+      "sareaen": "Nangang Dist",
+      "snaen": "YouBike2.0_Fushan Park",
+      "aren": "No. 27， Ln. 44， Fushan St. (Southeast)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:22:02",
+      "infoDate": "2025-04-19",
+      "total": 30,
+      "available_rent_bikes": 26,
+      "latitude": 25.04499,
+      "longitude": 121.61775,
+      "available_return_bikes": 3
+    }
+  }
+]

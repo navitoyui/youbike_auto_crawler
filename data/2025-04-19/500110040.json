@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500110040",
+      "sna": "YouBike2.0_健安新城",
+      "sarea": "松山區",
+      "mday": "2025-04-19 23:13:14",
+      "ar": "三民路43巷1號前",
+      "sareaen": "Songshan Dist",
+      "snaen": "YouBike2.0_Jianan Sincheng",
+      "aren": "No. 1， Ln. 43， Sanmin Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 23:13:14",
+      "infoDate": "2025-04-19",
+      "total": 30,
+      "available_rent_bikes": 20,
+      "latitude": 25.05606,
+      "longitude": 121.56345,
+      "available_return_bikes": 10
+    }
+  }
+]

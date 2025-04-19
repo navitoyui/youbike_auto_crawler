@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500108020",
+      "sna": "YouBike2.0_捷運西湖站(1號出口)",
+      "sarea": "內湖區",
+      "mday": "2025-04-20 00:07:14",
+      "ar": "環山路一段9巷9號對側",
+      "sareaen": "Neihu Dist",
+      "snaen": "YouBike2.0_MRT Xihu Sta. (Exit 1)",
+      "aren": "Ln. 9， Sec. 1， Huanshan Rd",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-20 00:07:14",
+      "infoDate": "2025-04-20",
+      "total": 23,
+      "available_rent_bikes": 0,
+      "latitude": 25.08301,
+      "longitude": 121.56638,
+      "available_return_bikes": 23
+    }
+  }
+]

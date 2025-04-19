@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500103075",
+      "sna": "YouBike2.0_玉泉公園(鄭州路)",
+      "sarea": "大同區",
+      "mday": "2025-04-19 20:30:04",
+      "ar": "鄭州路/西寧北路(西南側)",
+      "sareaen": "Datong Dist",
+      "snaen": "YouBike2.0_YuQuan Park (ZhengZhou Rd.)",
+      "aren": "ZhengZhou Rd. & XinIng N. Rd. Intersection (Southwest)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 20:30:04",
+      "infoDate": "2025-04-19",
+      "total": 20,
+      "available_rent_bikes": 3,
+      "latitude": 25.05044,
+      "longitude": 121.50766,
+      "available_return_bikes": 16
+    }
+  }
+]

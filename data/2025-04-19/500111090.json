@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500111090",
+      "sna": "YouBike2.0_研究院路一段151巷口",
+      "sarea": "南港區",
+      "mday": "2025-04-19 18:14:14",
+      "ar": "研究院路1段151巷18號前",
+      "sareaen": "Nangang Dist",
+      "snaen": "YouBike2.0_Ln. 151， Sec. 1， Academia Rd.",
+      "aren": "No. 18， Ln. 151， Sec. 1， Academia Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 18:14:14",
+      "infoDate": "2025-04-19",
+      "total": 14,
+      "available_rent_bikes": 1,
+      "latitude": 25.04997,
+      "longitude": 121.6162,
+      "available_return_bikes": 13
+    }
+  }
+]

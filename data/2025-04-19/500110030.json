@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500110030",
+      "sna": "YouBike2.0_健康社會住宅",
+      "sarea": "松山區",
+      "mday": "2025-04-19 22:30:02",
+      "ar": "健康路305號(前)",
+      "sareaen": "Songshan Dist",
+      "snaen": "YouBike2.0_Jiankang Social Housing",
+      "aren": "No. 305， Jiankang Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:30:02",
+      "infoDate": "2025-04-19",
+      "total": 20,
+      "available_rent_bikes": 10,
+      "latitude": 25.05433,
+      "longitude": 121.56545,
+      "available_return_bikes": 10
+    }
+  }
+]

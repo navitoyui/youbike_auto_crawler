@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500107139",
+      "sna": "YouBike2.0_市民大道二段5巷口",
+      "sarea": "中山區",
+      "mday": "2025-04-19 22:10:05",
+      "ar": "市民大道二段/市民大道二段5巷",
+      "sareaen": "Zhongshan Dist",
+      "snaen": "YouBike2.0_Ln. 5， Sec. 2， Civic Blvd.",
+      "aren": "Sec. 2， Civic Blvd. & Ln. 5， Sec. 2， Civic Blvd. Intersection",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:10:05",
+      "infoDate": "2025-04-19",
+      "total": 15,
+      "available_rent_bikes": 11,
+      "latitude": 25.04812,
+      "longitude": 121.52166,
+      "available_return_bikes": 4
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500107127",
+      "sna": "YouBike2.0_民權建國路口(南側)",
+      "sarea": "中山區",
+      "mday": "2025-04-19 22:11:01",
+      "ar": "民權東路三段/建國北路二段(南側高架橋下)",
+      "sareaen": "Zhongshan Dist",
+      "snaen": "YouBike2.0_Minquan Rd. & Jianguo Rd. Intersection (South)",
+      "aren": "Sec. 3， Minquan E. Rd. & Sec. 2， Jianguo N. Rd. (Under Elevated Bridge)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:11:01",
+      "infoDate": "2025-04-19",
+      "total": 15,
+      "available_rent_bikes": 6,
+      "latitude": 25.06228,
+      "longitude": 121.53702,
+      "available_return_bikes": 9
+    }
+  }
+]

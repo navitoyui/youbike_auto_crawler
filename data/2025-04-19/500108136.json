@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500108136",
+      "sna": "YouBike2.0_中國醫藥大學附設醫院臺北分院",
+      "sarea": "內湖區",
+      "mday": "2025-04-19 22:43:01",
+      "ar": "內湖路二段368號對側",
+      "sareaen": "Neihu Dist",
+      "snaen": "YouBike2.0_China Medical University Hospital (Taipei Branch)",
+      "aren": "No. 368， Sec. 2， Neihu Rd. (Opposite)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:43:01",
+      "infoDate": "2025-04-19",
+      "total": 16,
+      "available_rent_bikes": 6,
+      "latitude": 25.08227,
+      "longitude": 121.5909,
+      "available_return_bikes": 10
+    }
+  }
+]

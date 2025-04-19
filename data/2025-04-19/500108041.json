@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500108041",
+      "sna": "YouBike2.0_安康路32巷24弄",
+      "sarea": "內湖區",
+      "mday": "2025-04-19 22:49:01",
+      "ar": "安康路32巷24弄22號",
+      "sareaen": "Neihu Dist",
+      "snaen": "YouBike2.0_Aly. 24， Ln. 32， Ankang Rd.",
+      "aren": "No. 22， Aly. 24， Ln. 32， Ankang Rd.",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:49:01",
+      "infoDate": "2025-04-19",
+      "total": 21,
+      "available_rent_bikes": 9,
+      "latitude": 25.06181,
+      "longitude": 121.59447,
+      "available_return_bikes": 12
+    }
+  }
+]

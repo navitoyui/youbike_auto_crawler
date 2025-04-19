@@ -1,0 +1,25 @@
+[
+  {
+    "time": "161549",
+    "data": {
+      "sno": "500108089",
+      "sna": "YouBike2.0_康湖二號公園(康寧醫院)",
+      "sarea": "內湖區",
+      "mday": "2025-04-19 22:10:16",
+      "ar": "成功路五段420巷17號東側",
+      "sareaen": "Neihu Dist",
+      "snaen": "YouBike2.0_Kanghu No. 2 Park(Kang-Ning General Hospital)",
+      "aren": "No. 17， Ln. 420， Sec. 5， Chenggong Rd. (East)",
+      "act": "1",
+      "srcUpdateTime": "2025-04-20 00:14:19",
+      "updateTime": "2025-04-20 00:14:26",
+      "infoTime": "2025-04-19 22:10:16",
+      "infoDate": "2025-04-19",
+      "total": 25,
+      "available_rent_bikes": 25,
+      "latitude": 25.07514,
+      "longitude": 121.60857,
+      "available_return_bikes": 0
+    }
+  }
+]
