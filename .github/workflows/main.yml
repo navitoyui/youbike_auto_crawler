@@ -26,6 +26,10 @@ jobs:
       - name: Install dependencies
         run: |
           pip install requests
+          
+      - name: Install dependencies
+        run: |
+          pip install requests pandas openpyxl
 
       - name: Run crawler script
         run: python main.py
