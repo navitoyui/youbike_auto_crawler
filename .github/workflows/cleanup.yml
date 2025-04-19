@@ -34,5 +34,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add backup/ data/
-          git commit -m "🧹 每週自動清理 + 備份資料 $(date '+%Y-%m-%d')" || echo "Nothing to commit"
+          git commit -m "每週自動清理 + 備份資料 $(date '+%Y-%m-%d')" || echo "Nothing to commit"
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
