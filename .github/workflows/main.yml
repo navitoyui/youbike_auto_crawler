@@ -1,16 +1,22 @@
-name: Run crawler every minute
+name: Auto YouBike Crawler
 
 on:
   schedule:
-    - cron: '*/1 * * * *'  # 每分鐘一次（UTC 時區）
-  workflow_dispatch:       # 手動也可以執行一次
+    - cron: '*/1 * * * *'  # 每分鐘執行一次（UTC 時區）
+  workflow_dispatch:        # 允許手動觸發
+
+permissions:
+  contents: write  # 允許寫入 Repo（commit + push）
 
 jobs:
   run-crawler:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout code
+      - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          persist-credentials: false  # 我們會手動設帳號
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -19,7 +25,15 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests beautifulsoup4
+          pip install requests
 
-      - name: Run crawler
+      - name: Run crawler script
         run: python main.py
+
+      - name: Commit and push data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git commit -m "📈 自動更新資料 $(date '+%Y-%m-%d %H:%M:%S')" || echo "⚠️ 沒有變更需要提交"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
