@@ -8,63 +8,64 @@ def fetch_youbike_data_once():
     url = "https://tcgbusfs.blob.core.windows.net/dotapp/youbike/v2/youbike_immediate.json"
 
     try:
-        # 抓取資料
         response = requests.get(url)
         data = response.json()
 
-        # 當前時間
         now = datetime.now(ZoneInfo("Asia/Taipei"))
         date_str = now.strftime("%Y-%m-%d")
         time_str = now.strftime("%H%M%S")
-        time = now.strftime("%H" +":"+ "%M" +":"+ "%S")
+        time_hms = now.strftime("%H:%M:%S")
 
-        # 建立資料夾 & 檔案路徑
         os.makedirs("data", exist_ok=True)
         filename = os.path.join("data", f"{date_str}.json")
 
-        # 建立新的紀錄 (單筆 snapshot)
-        new_snapshot = {
-            "time": time_str,
-            "time_str":time,
-            "data": []
-        }
-
+        # 準備這次抓到的資料 dict，以 sno 為 key
+        current_data = {}
         for station in data:
-            filtered_station = {
-                "sno": station.get("sno"),
+            sno = station.get("sno")
+            current_data[sno] = {
+                "sno": sno,
                 "available_rent_bikes": station.get("available_rent_bikes"),
                 "available_return_bikes": station.get("available_return_bikes"),
                 "total": station.get("total"),
                 "act": station.get("act"),
                 "infoTime": station.get("infoTime")
             }
-            new_snapshot["data"].append(filtered_station)
 
-        # 判斷是否需要寫入（根據 infoTime 是否有變）
-        write_snapshot = True
+        # 讀取舊資料（如果有）
+        previous_snapshots = []
+        last_station_info = {}  # key: sno -> last infoTime
 
         if os.path.exists(filename):
-            with open(filename, "r+", encoding="utf-8") as f:
-                content = json.load(f)
-                if content:
-                    last_data = content[-1]["data"]
-                    # 比對第一個站點的 infoTime（假設全部站點 infoTime 同步）
-                    if last_data and last_data[0]["infoTime"] == new_snapshot["data"][0]["infoTime"]:
-                        write_snapshot = False
-                if write_snapshot:
-                    content.append(new_snapshot)
-                    f.seek(0)
-                    json.dump(content, f, ensure_ascii=False, indent=2)
-                    f.truncate()
-        else:
-            # 第一次寫入
-            with open(filename, "w", encoding="utf-8") as f:
-                json.dump([new_snapshot], f, ensure_ascii=False, indent=2)
+            with open(filename, "r", encoding="utf-8") as f:
+                try:
+                    previous_snapshots = json.load(f)
+                    # 建立最後一次 snapshot 的站點狀態對照表
+                    if previous_snapshots:
+                        for station in previous_snapshots[-1]["data"]:
+                            last_station_info[station["sno"]] = station["infoTime"]
+                except json.JSONDecodeError:
+                    previous_snapshots = []
 
-        if write_snapshot:
-            print(f"[{now}] 已新增一筆快照，共 {len(new_snapshot['data'])} 個站點")
+        # 判斷哪些站點 infoTime 有變化
+        changed_stations = []
+        for sno, new_data in current_data.items():
+            if sno not in last_station_info or new_data["infoTime"] != last_station_info[sno]:
+                changed_stations.append(new_data)
+
+        # 如果有變化就寫入新的 snapshot
+        if changed_stations:
+            new_snapshot = {
+                "time": time_str,
+                "time_str": time_hms,
+                "data": changed_stations
+            }
+            previous_snapshots.append(new_snapshot)
+            with open(filename, "w", encoding="utf-8") as f:
+                json.dump(previous_snapshots, f, ensure_ascii=False, indent=2)
+            print(f"[{now}] 有 {len(changed_stations)} 個站點變動，已寫入快照")
         else:
-            print(f"[{now}] infoTime 無變化，未寫入")
+            print(f"[{now}] 所有站點 infoTime 無變化，未寫入")
 
     except Exception as e:
         print(f"發生錯誤: {e}")
