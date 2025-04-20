@@ -2,7 +2,7 @@ name: Fetch YouBike Data + Upload to Google Drive
 
 on:
   schedule:
-    - cron: "*/5 * * * *"  # 每分鐘執行一次
+    - cron: "* * * * *"  # 每分鐘執行一次
   workflow_dispatch:
 
 jobs:
