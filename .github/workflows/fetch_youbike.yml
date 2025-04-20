@@ -1,0 +1,52 @@
+name: Fetch YouBike Data + Upload to Google Drive
+
+on:
+  schedule:
+    - cron: "* * * * *"  # 每分鐘執行一次
+  workflow_dispatch:
+
+jobs:
+  fetch-and-upload:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: 3.13
+
+    - name: Install dependencies
+      run: |
+        pip install requests
+
+    - name: Install rclone manually
+      run: |
+        curl -O https://downloads.rclone.org/rclone-current-linux-amd64.zip
+        unzip rclone-current-linux-amd64.zip
+        cd rclone-*-linux-amd64
+        sudo cp rclone /usr/bin/
+        rclone version
+
+    - name: Configure rclone
+      run: |
+        mkdir -p ~/.config/rclone
+        echo "$RCLONE_CONF" > ~/.config/rclone/rclone.conf
+      env:
+        RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
+
+    - name: Download existing daily data from Google Drive
+      run: |
+        today=$(date +%F)
+        mkdir -p data
+        rclone copy gdrive:YouBikeData/ data/ --include "${today}.json" || echo "尚無檔案"
+
+    - name: Run YouBike fetch script
+      run: python YoubikeMain.py
+
+    - name: Upload updated daily data to Google Drive
+      run: |
+        today=$(date +%F)
+        rclone copy data/${today}.json gdrive:YouBikeData/
