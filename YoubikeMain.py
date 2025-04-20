@@ -2,6 +2,7 @@ import requests
 import os
 import json
 from datetime import datetime
+from zoneinfo import ZoneInfo
 
 def fetch_youbike_data_once():
     url = "https://tcgbusfs.blob.core.windows.net/dotapp/youbike/v2/youbike_immediate.json"
@@ -12,7 +13,7 @@ def fetch_youbike_data_once():
         data = response.json()
 
         # 當前時間
-        now = datetime.now()
+        now = datetime.now(ZoneInfo("Asia/Taipei"))
         date_str = now.strftime("%Y-%m-%d")
         time_str = now.strftime("%H%M%S")
 
