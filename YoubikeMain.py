@@ -16,6 +16,7 @@ def fetch_youbike_data_once():
         now = datetime.now(ZoneInfo("Asia/Taipei"))
         date_str = now.strftime("%Y-%m-%d")
         time_str = now.strftime("%H%M%S")
+        time = now.strftime("%H" +":"+ "%M" +":"+ "%S")
 
         # 建立資料夾 & 檔案路徑
         os.makedirs("data", exist_ok=True)
@@ -24,6 +25,7 @@ def fetch_youbike_data_once():
         # 建立新的紀錄 (單筆 snapshot)
         new_snapshot = {
             "time": time_str,
+            "time_str":time,
             "data": []
         }
 
