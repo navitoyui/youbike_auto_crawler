@@ -39,4 +39,4 @@ jobs:
     - name: Upload to Google Drive
       run: |
         today=$(date +%F)
-        rclone copy data gdrive:YouBikeData/$today/ --create-dirs
+        rclone copy data gdrive:YouBikeData/$today/
