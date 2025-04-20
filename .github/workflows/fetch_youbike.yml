@@ -22,8 +22,13 @@ jobs:
       run: |
         pip install requests
 
-    - name: Setup rclone
-      uses: rclone/rclone-action@v2
+    - name: Install rclone manually
+      run: |
+        curl -O https://downloads.rclone.org/rclone-current-linux-amd64.zip
+        unzip rclone-current-linux-amd64.zip
+        cd rclone-*-linux-amd64
+        sudo cp rclone /usr/bin/
+        rclone version
 
     - name: Configure rclone
       run: |
