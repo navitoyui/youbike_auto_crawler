@@ -22,8 +22,19 @@ jobs:
       run: |
         pip install requests
 
+    - name: Download existing data
+      run: |
+        today=$(date +%F)
+        mkdir -p data
+        rclone copy gdrive:YouBikeData/ data/ --include "${today}.json" || echo "尚無檔案"
+
     - name: Run YouBike fetch script
-      run: python YoubikeMain.py  # <-- 改成你的實際檔名
+      run: python YoubikeMain.py  
+
+    - name: Upload updated data
+      run: |
+        today=$(date +%F)
+        rclone copy data/${today}.json gdrive:YouBikeData/
 
     - name: Install rclone
       run: |
